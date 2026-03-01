@@ -30,6 +30,20 @@ This folder contains **downloaded and saved** papers, reports, and web articles 
 | `SecurityAffairs_2026_Lumen_AISURU_Kimwolf_Botnet_Disruption.md` | Security Affairs | 2026 | Lumen blocks 550+ C2 servers; DDoS, proxy abuse; Android TV, Kimwolf |
 | `KrebsOnSecurity_2026_Who_Benefited_AISURU_Kimwolf.md` | Krebs on Security | 2026 | Resi Rack, Dort/Snow, ByteConnect, Plainproxies, Maskify; ENS C2 |
 
+### Full-text copies (saved in repo)
+| File | Corresponds to |
+|------|-----------------|
+| `FULL_JMIR_2021_Linguistic_Analysis_Gangstalking_Lustig_et_al.txt` | JMIR Lustig et al. |
+| `FULL_Springer_Reed_2025_Gangstalking_Cultural_Concept_of_Distress.txt` | Springer Reed 2025 |
+| `FULL_PLOS_ONE_2024_Information_Disorder_Bots_AI.txt` | PLOS ONE Tomassi et al. |
+| `FULL_Sage_2024_TikTok_Sound_Disinformation_Ukraine.txt` | Sage TikTok Bösch/Divon 2024 |
+| `ChatGPT_Research_Summary_AISURU_Spotify_Feasibility.txt` | ChatGPT answers (AISURU/Spotify feasibility) |
+
+### Reference only (URL; fetch failed)
+| File | Notes |
+|------|--------|
+| `CNM_2023_Stream_Manipulation_REFERENCE.md` | CNM PDF URL; remote name could not be resolved at fetch time |
+
 ---
 
 ## Referenced but not fully downloaded (paywall / login)

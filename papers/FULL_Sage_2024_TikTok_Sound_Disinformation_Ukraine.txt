@@ -1,0 +1,769 @@
+The sound of disinformation: TikTok, computational propaganda, and the invasion of Ukraine - Marcus Bösch, Tom Divon, 2024
+
+Skip to main content
+
+Intended for healthcare professionals
+
+Skip to main content
+
+[New Media & Society](https://journals.sagepub.com/home/NMS)
+
+Contents
+
+- Biographies
+- References
+- ORCID iD
+- Funding
+- Discussion
+- Findings
+- Method
+- “Use this sound” for computational propaganda on TikTok
+- TikTok and the spread of mis- and disinformation
+- From false information to computational propaganda
+- Introduction
+- Abstract
+
+[PDF/EPUB](https://journals.sagepub.com/doi/reader/10.1177/14614448241251804)
+
+More
+
+## Abstract
+
+TikTok has emerged as a powerful platform for the dissemination of mis- and disinformation about the war in Ukraine. During the initial three months after the Russian invasion in February 2022, videos under the hashtag #Ukraine garnered 36.9 billion views, with individual videos scaling up to 88 million views. Beyond the traditional methods of spreading misleading information through images and text, the medium of sound has emerged as a novel, platform-specific audiovisual technique. Our analysis distinguishes various war-related sounds utilized by both Ukraine and Russia and classifies them into a mis- and disinformation typology. We use computational propaganda features—automation, scalability, and anonymity—to explore how TikTok’s auditory practices are exploited to exacerbate information disorders in the context of ongoing war events. These practices include reusing sounds for coordinated campaigns, creating audio meme templates for rapid amplification and distribution, and deleting the original sounds to conceal the orchestrators’ identities. We conclude that TikTok’s recommendation system (the “for you” page) acts as a sound space where exposure is strategically navigated through users’ intervention, enabling semi-automated “soft” propaganda to thrive by leveraging its audio features.
+
+## Introduction
+
+Wars have always been mediated, perceived, experienced, and remembered through a medium whose features shaped wartime realities (Boichak and Hoskins, 2022; Merrin, 2018). The widespread adoption of social media platforms has revolutionized the way in which information is shared during times of conflict, affording users to rapidly and easily reshape and disseminate news to global audiences at an unprecedented speed and scale (Vilmer et al., 2018). Since the outset of the war in Ukraine in February 2022, TikTok has emerged as an unexpected focal point for spreading audiovisual content about the conflict (Divon and Eriksson Krutrök, 2023; Geboers and Pilipets, 2024). Videos with the hashtag #Ukraine were viewed 36.9 billion times in the first three months after the Russian invasion (TikTok, 2022), and the short-form video platform, owned by the Chinese company ByteDance, has been found to serve as the harbinger of war while communicating high volumes of videos containing mis- and disinformation (Kuźmiński, 2022).
+
+The unique infrastructural characteristics of TikTok, including the platform’s algorithmic distribution, emphasis on content over interpersonal connections, and culture of remixing and meme creation, make it vulnerable to the spread of mis- and disinformation. Accordingly, TikTok has proven to be a fertile ground for the propagation of mis- and disinformation, with instances of misleading information appearing in nearly 20% of videos discovered by the platform’s search engine. Additionally, TikTok’s recommendation system (the “for you” page) has been found to display disinformation about the war in Ukraine to new users within 40 minutes of signing up, as reported by Newsguard’s Misinformation Monitor (2022a, 2022b). The spread of mis- and disinformation on TikTok during the Ukrainian conflict involves a diverse range of actors, including state actors, individuals, and computational elements such as algorithms and features (O’Connor, 2022). This multifaceted phenomenon spans from shallow misinformation to sophisticated disinformation campaigns, highlighting the need for continued investigation.
+
+This paper looks at the trajectory of mis- and disinformation being algorithmically and automatically curated, amplified, distributed, and consumed on the platform’s recommendation system via the popular sound feature, considered as TikTok’s backbone (Richards, 2022). We argue that TikTok’s aural paradigm shift (Abidin and Kaye, 2021) has refocused attention on the power of sound as a tool for disseminating mis- and disinformation in innovative and affective ways that exploit the platform’s vernacular (Kaye et al., 2022). Gibbs et al. (2015) describe platform vernacular as the “genres of communication emerge from the affordances of particular social media platforms and the ways they are appropriated and performed in practice” (p. 257). We suggest that TikTok’s vernacular is particularly impactful in disseminating semi-automated propaganda messages in what we term sound spaces. These are automation-based environments that facilitate various forms of affective attunement, where emotional expression and social bonding are encouraged by auditory practices, enabling persuasion and influence to thrive.
+
+Therefore, we first establish the notion of computational propaganda as our theoretical lens, understood as the “use of algorithms, automation, and human curation to purposefully manage and distribute misleading information” (Woolley and Howard, 2019: 3). Second, we define misleading information on TikTok, encompassing both mis- and disinformation, with the latter serving as the core of propaganda designed to deceive and harm (Wardle, 2020), while the former often functions as an amplifying agent. Third, we examine sound as a potent instrument for computational propaganda, analyzing war-related sounds used in over 25,000 videos. We categorize these sounds into a typology of six types of audio-based mis- and disinformation (Wardle, 2020), spanning from low (satire and parody content) to mid-level (false context and imposter content) and up to high volume (manipulated and fabricated content). By connecting these findings to the computational propaganda features: automation, scalability, and anonymity (Woolley and Howard, 2019), we conclude that TikTok’s sound feature serves as the core element of multimodal campaigns utilizing video, images, audio, and text to facilitate extensive semi-automated “soft” propaganda campaigns, resulting in up to 80 billion individual views per campaign.
+
+## From false information to computational propaganda
+
+While false information has been used for centuries to influence public opinion, the proliferation of digital communication technologies, social media, and other online platforms during the 2010s has created novel opportunities for spreading such information at an unprecedented scale and speed. Accordingly, the exploration of false information within propaganda studies (Auerbach and Castronovo, 2013) has led to a nuanced understanding, distinguishing between “misinformation” and “disinformation”—distinct terms that categorize the various forms and intentions behind the dissemination of false information and its political sway (Marwick and Lewis, 2017). The former is defined as inaccurate or incorrect information disseminated without the expressed intention of deceiving (Jack, 2017), while the latter involves the deliberate dissemination of falsifiable statements intended to deceive and amplify deception (Wardle and Derakhshan, 2017).
+
+Various scholars have been exploring the textual and visual traces of mis- and disinformation online in recent years. Current work by Peng et al. (2023) provides a framework for understanding how visual artifacts influence the credibility perceptions of misinformation, while Thomson et al. (2022) explored strategies to mitigate the impact of mis- and disinformation on journalistic work. Meanwhile, Hameleers et al. (2020) analyzed the credibility of textual versus visual disinformation, uncovering that the latter is often deemed more credible due to the ease with which visual information can be taken out of context to serve as ostensibly reliable “proof.” Emerging techniques for creating synthetic videos that are difficult to distinguish from genuine footage, commonly known as “deepfakes,” have spurred scrutiny into novel avenues for video-based disinformation, leading to the widespread belief that much of online content cannot be trusted (Vaccari and Chadwick, 2020).
+
+With misleading content spanning technologies, platforms, and tools, Wardle (2020) argued that mis- and disinformation can be understood as a form of “pollution” in the digitally connected world, where irrelevant, redundant, inferior, and unwanted information is disseminated with a certain level of intent to deceive audiences. To account for the proliferation of technically advanced strategies, non-human factors, and platform infrastructures used to spread mis- and disinformation, Woolley and Howard (2019) introduced the term “Computational Propaganda.” They define computational propaganda as the “use of algorithms, automation, and human curation to purposefully manage and distribute misleading information” (Woolley and Howard, 2019: 3), where misleading information encompasses both mis- and disinformation.
+
+The features of computational propaganda are (1) automation: enabling propaganda campaigns to be scaled up efficiently, (2) scalability: permitting instant and colossal reach within content distribution, and (3) anonymity: enabling the perpetrators of such campaigns to evade detection and remain unknown (Woolley and Howard, 2019). Computational propaganda has the capacity to be used for a multitude of purposes, including advertising and commercial marketing. However, its most profound impact is observed in the sphere of politics, particularly in the context of foreign information manipulation and interference (Bolsover and Howard, 2017). Computational propaganda leverages automated infrastructures to disseminate misleading information, amplify messages or viewpoints, and manipulate public opinion. Such tactics can ultimately create patterns of behavior that pose a formidable threat to the core values, procedures, and political processes of democratic societies (Borrell, 2022).
+
+In alignment with current scholarly trends in mis- and disinformation research, the scrutiny of computational propaganda has predominantly focused on visual and textual elements. Scholars have examined the significant influence of social bots on Facebook and WhatsApp during election times in Brazil in 2014 (Arnaudo, 2017) and in the U.S. during the 2016 elections (Woolley and Guilbeault, 2017), where they achieved measurable impact through verbatim tweets on Twitter. Sanovich (2017) focused on Russia’s sophisticated use of online propaganda and counter-propaganda tools on Facebook, including trolls masquerading as organic users and elaborately substantiating even their most patently false claims. Thus far, this scrutiny has overlooked the multimodal nature of audiovisual platforms such as TikTok, including its auditory components.
+
+## TikTok and the spread of mis- and disinformation
+
+Since its international launch in 2018, TikTok has emerged as one of the most influential video-sharing platforms globally, amassing one billion unique users in 2021 (Silberling, 2021). Despite its massive popularity, TikTok’s Chinese ownership and government connections, coupled with concerns over privacy and content moderation, have subjected the platform to heightened scrutiny (Zeng and Kaye, 2022). Recent research indicates that TikTok has become a fertile and complex ground for both the dissemination and combating of mis- and disinformation (Basch et al., 2021). Even users’ creative efforts to debunk such falsehoods inadvertently contribute to a proliferative cycle, where they propagate misleading content further (Southerton and Clark, 2023). The proliferation of mis- and disinformation narratives on TikTok can be attributed to the platform’s content-centric approach, which emphasizes video consumption over following specific users, potentially diminishing users’ attentiveness to source evaluation and credibility. Content is prominently featured on the “for you” page, the platform’s default interface, delivering a personalized stream of videos that are algorithmically recommended based on users’ interests.
+
+TikTok has enhanced its mechanisms to combat mis- and disinformation narratives, especially amid events like the war in Gaza since October 7, 2023, by intensifying content moderation and engaging external fact-checkers to preserve the accuracy of shared information during crises (TikTok Newsroom, 2023). Nonetheless, as evidence mounts of TikTok’s failure to protect users from misleading information about the Gaza war (Dwoskin, 2023), the platform is seen within long-standing political contexts in which the dissemination and impact of mis- and disinformation have been explored. Bösch and Ricks (2021), in their study of right-wing propaganda efforts, investigated the use of fake accounts that visually mimicked official institutions on TikTok ahead of the German federal election in 2021. In the times of the COVID-19 crisis, Shang et al. (2021) found that the most common types of mis- and disinformation were conspiracy theories, false cures, and false information about COVID-19 testing. Those types were amplified by the help of the platform core technique to sample, reuse, and remix content through “duetting”—to post your video side-by-side with a video from another creator—or “stitching”—users’ ability to clip scenes from another user’s video into their own (Ebbrecht-Hartmann and Divon, 2022; Quick and Maddox, 2024).
+
+In the context of the Russian invasion of Ukraine in 2022, propaganda efforts were identified by Kuźmiński (2022), who observed techniques such as the utilization of deep-faked videos on TikTok, where audiovisual propaganda content manifested in meme form. With a viral potential higher than YouTube (Guinaudeau et al., 2022), TikTok’s memes are powerful vehicles for the intentional production and dissemination of mis- and disinformation content, often driven by what Zulli and Zulli (2022) refer to as “imitation publics.” Those are the collection of people whose “digital connectivity is constituted through the shared ritual of content imitation” (p. 7). As TikTok’s algorithm privileges meme-based videos with accelerated exposure (Divon, 2022; Ling et al., 2022), users who engage in mimesis effectively become part of the human force propagating mis- and disinformation content to wider audiences.
+
+TikTok’s popularity for news consumption and media criticism (Literat et al., 2023) has led to a shift in how users disseminate information, relying more on relational and emotional resonance rather than traditional markers of authoritative endorsement. This trend is further reinforced by the platform’s unique blend of playfulness, performance, affective appeal, and intimacy, which greatly influences how users circulate and amplify information within its ecosystem (Cervi and Divon, 2023; Grandinetti and Bruinsma, 2022). Central to this scrutiny, TikTok’s platform-specific feature of sound, often identified as its backbone (Richards, 2022), has been notably overlooked
+
+## “Use this sound” for computational propaganda on TikTok
+
+The utilization of sound as an influential tool for propaganda is a long-standing practice. Lasswell (1934) emphasizes that propaganda can take “spoken, written, pictorial or musical form” (p. 521). The use of aural persuasion as propaganda gained traction in the era of mass media, particularly with the development of radio broadcasting in the late 1920s, as totalitarian regimes were harnessing audio to gain a monopoly (David, 2018). However, the academic exploration of sound as a persuasive tool was then sidelined by the global dominance of video via the widespread distribution of television, computers, and smartphones (Ramos Méndez and Ortega-Mohedano, 2017).
+
+TikTok has spurred an aural paradigm shift in research, driven by the popularity of audio memes (Abidin and Kaye, 2021). An audio meme is a short sound clip that includes snippets from songs, movies, or other audio sources, gaining popularity online through its repeated use and variations, encapsulating trends, humor, emotions, and platform dialects in a shareable format (Pilipets et al., 2023). When engaged in audio meme creation, users have access to extensive repositories of organized audio clips, which can be reused through the “use this sound” feature available in each video. Thus, audio memes have evolved into an interactive and collaborative experience on the platform (Kaye, 2023), enabling users to enhance their videos with music, voiceovers, sound effects, or multiple audio layers, with each sound automatically linked to a “sound page,” aggregating all videos utilizing that specific audio. Furthermore, being an engagement booster, creators utilize audio memes as a visibility strategy by incorporating trending audio snippets, thus engineering their videos into popular audio meme streams (Bhandari and Bimo, 2022).
+
+In this sound-centric ecosystem, TikTok’s automated indexing and amplification of videos, guided by auditory practices, enhances users’ discovery and engagement with shared human experiences on the platform. As a result, audio memes have transformed into a communal and cultural storytelling medium (Ramati and Abeliovich, 2022), empowering users to express and amplify their voices, including narratives of diasporic identity (Divon and Ebbrecht-Hartmann, 2022; Jaramillo-Dent et al., 2022), and cultivate a sense of belonging within their in-groups (Vizcaíno-Verdú and Abidin, 2022). Thus, sound use on TikTok exemplifies secondary orality (Venturini, 2022), as dispersed individuals engage with the ephemeral and participatory nature of memetic content, continuously recreating and sharing anew to resonate their collective sentiments. This networked infrastructure forms what we call sound spaces, which are automation-based environments in which persuasion and influence can thrive with the help of auditory practices, allowing users to echo their message with various forms of emotional expressions and social bonding.
+
+TikTok fosters bottom-up content creation by making the core components of music (such as hooks, riffs, and beats) easily accessible and discoverable. This enables users to effortlessly pick up, combine, and piece these elements into new, personalized assemblages. Thus, TikTok’s infrastructural setting and user culture make the platform susceptible to hosting and spreading recontextualized media like stolen YouTube videos, computer game footage, and other forms of viral mis- and disinformation (Nilsen et al., 2022; Weikmann and Lecheler, 2022) and propaganda by state actors (Rahmawati and Hadinata, 2022). However, the issue of automation around sound-based computational propaganda has been unresearched, with only O’Connor (2022) highlighting the role of automated sound mechanisms in spreading misleading COVID-19 content on TikTok, where videos containing vaccine misinformation generated 20,019,798 views due to the use of viral sounds.
+
+By foregrounding the memetic function of TikTok in a complex ecology of users’ imitation, affective attunement, and attention hijacking, we observe a polluted information ecosystem consisting of conspiracies, hoaxes, falsehoods, or manipulated media, as described by Wardle (2020) under “information disorder.” With the focus on TikTok’s audio functionalities as users’ “attention-grabbing techniques” (Marwick, 2015: 334), we apply a typology of mis- and disinformation (Wardle and Derakhshan, 2017) ranging from low (satire and parody content) to high volume (fabricated content), creating a map of diverse memetic sound-based videos. By connecting these findings to the computational propaganda features and applying them to sound, we attempt to offer a unique analysis, asking: (Q1) Automation—which role does automation play in spreading mis- and disinformation? (Q2) Scalability—how effective is the use of sound in terms of its impact and reach, as indicated by metrics such as views? (Q3) Anonymity—how can we identify sound-based disinformation and trace it back to its perpetrators?
+
+## Method
+
+### Data collection, sample, and analysis
+
+To gain a comprehensive understanding of the computational elements involved in war-related content on TikTok, we applied an exploratory user-centric approach (Grandinetti and Bruinsma, 2022) based on the walkthrough method as the main data-gathering procedure (Light et al., 2018) while adopting the perspective of a TikTok user with an “analytical eye” (p. 791). The walkthrough method is “a way of engaging directly with an app’s interface to examine its technological mechanisms and embedded cultural references to understand how it guides users and shapes their experience” (Light et al., 2018: 882). Despite the limitations of this method when applied to highly personalized and algorithmically driven apps, we echo the call made by Duguay and Gold-Apel (2023), asserting that this method should serve as a springboard for more comprehensive and in-depth content analysis.
+
+To mitigate the bias inherent to our TikTok feeds, we created a research-focused account using SIM cards different from those on our personal phones while maintaining the exact geolocation of our original location (outside of Ukraine) to ensure exposure to international content. As we embarked on a daily engagement with war-related content on our “for you” page, we actively searched for such videos in the first few weeks following the invasion of Ukraine on February 24, 2022, using keywords like “Ukraine,” “Invasion,” “Putin,” and more. In doing so, we effectively trained the algorithm to prioritize war-related content on our “for you” page, known for its “centripetal force” as described by Duguay and Gold-Apel (2023), making it a challenging screen to disengage from and the focal point for user consumption and attention. With abundant Ukrainian and Russian war-related videos flooding in, we utilized the in-app bookmark system and our platform literacy to save videos featuring recurring multimodal patterns and sound-based memes.
+
+After a month of daily scrolling, we have reached a collection of diverse materials composed of approximately 300 videos that were featured on our war-trained “for you” page. All videos included primary auditory components, including the use of either (1) songs, (2) audio scraps, (3) human speech, (4) sound effects, and (5) mashups of audio. The classification of these components was undertaken as an integral part of our walkthrough approach, aimed at achieving a nuanced comprehension of potential auditory functions on TikTok. Individual videos accumulated up to 88 million views, and unique sounds have been used in more than 36,000 different videos.
+
+We then adopted a purposive sampling technique (Sandelowski, 1995) to “deliberately look for information-rich cases” (p. 81) that feature war-related content. To ensure the chosen videos from each sound were relevant, we included videos showcasing hashtags like #ukraine, #putin, or #invasion and utilized their visual cues like the Ukraine flag or images of Vladimir Putin or Vladimir Zelensky. We analyzed the accounts of users who shared original sounds while trying to source them back to the origin and checked their accounts concerning follower count, views, and reach. We relied on the Ethics Working Committee of the Association of Internet Research (AoIR) and took great care in our research decisions, like removing personal information from saved videos. We identified six types of audio-based examples that fit Wardle and Derakhshan’s (2017) theoretical framework of mis- and disinformation, supplemented by the intensity of information disorders found in our data, ranging from (1) low volume with satire and parody content and false connection, over (2) mid volume with misleading content, false context, and imposter content, to (3) high volume with manipulated content, and fabricated content (see Figure 1).
+
+Figure 1. Six types of audio-based mis- and disinformation, each associated with distinct sounds.
+
+Finally, we applied a multimodal content analysis per sound “to examine textual, aural, linguistic, spatial, and visual resources” (Pearce et al., 2020: 6) embedded within the videos, intending to identify how distinct auditory layers were used in a memetic fashion as the main driver and design element of multimodal videos on TikTok. This type of analysis helped us to observe aspects of computational propaganda, focusing on the level of richness in audiovisual modality and sophistication. By that, we gained a deeper understanding of the ways in which computational propaganda and its elements of automation, scalability, and anonymity (Woolley and Howard, 2019) manifest on TikTok.
+
+## Findings
+
+### A typology of sound-based mis- and disinformation
+
+#### Low-volume information disorder
+
+According to Wardle (2020), low-information disorder encompasses a wide range of practices, including the use of satire and parody as a deliberate strategy to evade fact-checking and spread rumors and conspiracy theories. We have identified two distinct examples of low-volume disorder: the first is the dancing soldier by the Ukrainian soldier Alex Hook ([@alexhook2303](mailto:@alexhook2303)), demonstrating the computational propaganda features automation and scalability utilizing the sound feature as the core amplifier. Hook’s first video depicts him dancing with full combat gear, carrying a rifle to the famous song “Smooth Criminal” by Michael Jackson while performing the singer’s iconic moonwalk in an open field that resembles a war-related setting (see Figure 2[a]). Accumulating 88 million views within 24 hours, this video gained significant attention due to the intriguing sight of a soldier’s playful performance that challenged the typical image of a combat zone.
+
+Figure 2. Screenshots from TikTok videos illustrating examples of low-volume information disorder.
+
+By taking a well-known pop song and infusing it with fresh and unexpected meaning, Hook strategically integrated his video into a popular audio meme landscape (Bhandari and Bimo, 2022), thereby ensuring broader discoverability and reach by automatically weaving his video in the ongoing stream of videos using the Michael Jackson sound. This dissonant performance – blending common internet dialects of sound and play in wartime (Divon and Eriksson Krutrök, forthcoming) – features a dancing soldier on the battlefield, garnered global attention, with media coverage portraying it as a touching scene of a “courageous soldier” dancing to reassure his daughter of his safety (Neog, 2022).
+
+Hook proceeded to create 126 more videos featuring him dancing to other songs (i.e., Nirvana’s “Smells Like Teen Spirit”) while dressed in combat gear in various settings and situations that evoked the ambiance of a warzone. As his video series progressed, Hook began to reveal his face often and danced in front of tangible objects associated with war, such as a tank (see Figure 2[b]). In addition, he enlisted the participation of his soldier comrades in several videos, where they co-danced in different scenarios (see Figure 2[c]). While Hook’s profile garnered approximately 1 billion views by March 24, his distinguished dancing style sparked a dance challenge on TikTok featured with the #AlexHook hashtag (476 million views). Dance challenges on TikTok are meme-based performances in which users imitate a set of choreographed moves, calling others to coopt by using a designated hashtag (Klug, 2020). As “attention-grabbing techniques” (Marwick, 2015: 334), challenges enhance the algorithmic visibility of users and amplify their agenda and social capital (Cervi and Divon, 2023; Boffone, 2021). In addition to their scalability, TikTok dance challenges exhibit automation by using pre-existing sounds and choreography, enabling content creation through imitation. However, these challenges are a hybrid form of automated amplification, as their quick, copy-and-paste method combines with significant human agency, making them a “semi-automated” feature of computational propaganda.
+
+Hook’s videos, which incorporate popular songs and a distinctive dancing style, align seamlessly with TikTok’s playful ethos, where each user functions as a performer who “externalizes personal political opinion via an audiovisual act” (Medina-Serrano et al., 2020: 264). This dynamic fosters a more interactive form of political communication performance compared to other video-centric platforms, urging users to assert agency in times of conflict. As they become widespread internet memes (Shifman, 2013), Hook’s videos on TikTok extend their influence to platforms like Instagram and Facebook, sparking extensive streams of imitation. This cross-platform memeification not only automatically broadens the reach and impact of the original content but also harnesses the interconnectedness of imitation-based communities, allowing individuals to collaboratively shape the personalization and presentation of warfare information in users’ feeds.
+
+Hook’s videos, however, also have the potential to mislead viewers as they convey, via whimsical songs, expressive body performance, and captions, “a misleading narrative for the users, who will only see a certain part of the story” (Woolley and Howard, 2019: 54) in which the strength ratio of military forces at the outset of the conflict imply a future Ukrainian victory. These videos act as conduits for a carefully constructed pro-Ukrainian propaganda narrative, intentionally excluding any scenes of fighting, killing, or death and instead emphasizing the valor of soldiers confidently positioned on the battlefield, aiming to project an aura of control and assurance. By presenting such content, both platform users and the global audience are exposed to messages crafted to sway public opinion in favor of Ukraine.
+
+Furthermore, the utilization of diverse audiovisual elements to create an individualized and humanized depiction of Ukrainian soldiers was found to be a recurrent strategy. The virality of profiles inspired by Hook, such as @jefbix (see Figure 2[d]), illustrates how constructed ambiguity, uncertainty, and vagueness (Larina et al., 2019) are used to engage viewers with minimal information about the identities of the profiles’ agents. Through the accessibility of anonymity on TikTok, these agents channel their digital labor into influencing and mobilizing audiences, all the while defying conventional expectations of soldiers in wartime and consciously omitting personal aspects of their lives beyond the context of war, crafting a deliberately sterilized online presence.
+
+Moreover, specific segments of Hook’s videos were later incorporated into a sound-based TikTok campaign initiated by “Visit Ukraine,” a Ukrainian State organization (see Figure 2[e]). This promotional video appropriated Hook’s virality by creating a musical mashup of his various song choices and featuring armed soldiers dancing with high morale. By that, the Ukrainian State has been coopting a memetic computational momentum in which “dancing soldiers” scaled up to synchronize with international pop songs, which has become an aesthetic. This aesthetic is a set of audiovisual and affective codes performed by users who seek to cultivate a persuasive mind-set and elicit an emotional resonance with their audience (Paasonen, 2015). This type of communicative aesthetic is “entangled with the technical structures of the platforms that are used” (Schreiber, 2017: 145) and has epistemological consequences for how users are informed and educated about the war on TikTok.
+
+The second example of low-volume information disorder with the potential to fool is the Bayraktar audio meme. Bayraktar is a recent Ukrainian patriotic propaganda song that pays tribute to the Turkish Bayraktar TB2 combat drone, which was deployed on behalf of the Ukrainian forces in March 2022. The song was written by Ukrainian soldier Taras Borovo, mocking both the Russian Armed Forces and the invasion itself (Weichert, 2022). Marked by its straightforward yet enthralling rhythm, the song garnered extensive airplay on Ukrainian radio stations, became a rallying cry at protests, underwent various remixes, and eventually found its way to TikTok. On TikTok, a multitude of remixes have emerged featuring an array of musical styles, including drum and bass (Bayraktar, Lostlojic), ska (BARAKTA, Big City Germs), heavy metal (Ukraine War Song, Metal Versio), and even a house remix (Slap House Remix, Adi Foxx). These creative adaptations underscore the power of anonymity on TikTok by effectively detaching the sound and its core message from their original source.
+
+This example underscores the influence of sound-based platforms such as TikTok, which thrive on user-generated content remixes, turning the Bayraktar song into an effective earworm that further cements this audio into listeners’ memory (Abidin and Kaye, 2021) while carrying pro-Ukrainian propaganda messages. The explicit goal of the song, as described by the artist, was to “influence people, keep morale high and reduce Russian influence” (Weichert, 2022) as users harnessed this song as a template for mocking Russian myths and symbols, such as the cabbage soup Shchi and demonizing Russian soldiers as humanoid monster and bandits (see Figure 2[f]). The demonization of the enemy, aimed at mobilizing allies (Conserva, 2003), is effectively implemented here through a “soft” form of propaganda. According to Mattingly and Yao (2022), this form is achieved by repackaging messages in various pop culture forms that appeal to mass audience preferences. TikTok’s sound-trigger system enables the automatic amplification of these messages, which rewards the use of trending meme-based templates with virality (Divon, 2022), thus facilitating their widespread reach. The rapid scalability of memetic sound-based content becomes even more apparent given the ability to share TikTok videos on other platforms such as Telegram or WhatsApp.
+
+Ultimately, the sound feature serves as the foundation for these low-information disorder instances, showcasing computational propaganda elements like “semi-automation” in content production via the “reuse sound” feature, pre-planned choreography, swift scalability through sound challenges, and the utilization of anonymity, enabling propaganda songs to circulate through remixes independently of their original creators.
+
+#### Mid-volume information disorder
+
+Middle-volume information disorder includes three types: (1) the use of misleading content to manipulate how an issue or individual is perceived, (2) the sharing of genuine content with false contextual information, and (3) the impersonation of genuine sources through imposter content (Wardle, 2020). We found sound-based examples of all three garnering over 100 billion views in various variations, demonstrating computational propaganda features like scalability. The first example is the Russian warship go f meme (80 billion views). During a Russian attack on Snake Island in Ukraine’s territorial waters on February 24, 2022, border guard Roman Hrybov communicated the final message to the Russian missile cruiser Moskva, saying, “Russian warship, go f*** yourself.” This phrase, being widely adopted and transformed into an audio meme, is an example of “misleading content” (Wardle, 2020) as it was disseminated with the intention of misleading how the incidents on Snake Island were perceived.
+
+The audio meme phrase falsely claimed that 13 Ukrainian border guards had died as heroes in the battle for the island while fighting against the Russian flagship of the Black Sea Fleet and the most powerful warship in the region. Initially, Ukrainian government sources used the meme to spread false information, with the Ukrainian President announcing the death of the border guards (Thompson and Alba, 2022). However, a few days later, Ukrainian officials clarified that the soldiers were actually alive and had been captured by Russian forces. Despite this correction, the original misleading version continued to circulate, propagated through various sounds like “Russian Warship Go Fuck Yourself” and “Russian Warship.” Related searches such as “Russian warship go f meme,” “Russian warship meme,” or “snake island Ukraine video” lead to pages with views ranging between 150–200 million, showcasing the widespread dissemination of this misinformation.
+
+This audio meme embodied the David and Goliath narrative, invoking a profound sense of asymmetric conflict (Fischerkeller, 1998) by contrasting a high-tech warship with a handful of soldiers on a deserted island, resonating with Western and pro-Ukrainian sentiment while bypassing logical reasoning of the events. The narrative was utilized as state propaganda to boost morale (Woolley and Howard, 2019) while simultaneously concealing its origins in government sources that had spread misleading information via the meme, thus illustrating the role of anonymity in computational propaganda. The “reuse sound” feature facilitated the dissemination of this audio, offering users a straightforward method to create videos with the military radio sound as a template, enhancing its extensive reach through a “semi-automated” process. These variations, including sound, image, and text, punctured the myth of the invaders’ superiority while the distinction between the falseness of the content and its genuine circumstances became increasingly obscured (see Figure 3[a]).
+
+Figure 3. Screenshots from TikTok videos illustrating examples of mid-volume information disorder.
+
+The second example is False Context—Your son is dead meme (10 million views). The meme portrays a Ukrainian-speaking soldier breaking the news of a Ukrainian fighter’s death over the phone to what appears to be his mother. Clearly indicating that genuine content was shared with false contextual information (Wardle, 2020), the videos were watermarked with the sign “NewsFront”—a website based in Russia-occupied Crimea, founded in 2014 by the head of the Crimean branch of the pro-Putin political party Rodina and a Russian businessman who was formerly a Kremlin official. In 2020, the U.S. Department of State (2022) described NewsFront as part of a “disinformation and propaganda ecosystem” involving Russian state actors to disseminate their ideologies widely. Thus, this video can be perceived as a pro-Russian strategy designed to instill fear and propagate a narrative that demoralizes Ukrainian soldiers and citizens.
+
+The emotional resonance is amplified during the tragic moment through the incorporation of a melancholic instrumental snippet from the song Veridis Quo (a wordplay on the Latin expression “Quo Vadis,” meaning “to what dreadful place”) by Daft Punk. Orchestrated with an affective intent known to resonate in conflict-related online content (Papacharissi, 2015), the music in the video intensifies as the soldier relays the heartbreaking news, complemented by the sound of the mother’s sobs and the visual display of the soldier’s ID badge, enhancing the emotional gravity of the scene (see Figure 3[b]). The different emotional manipulations employed resulted in the formation of what can be referred to as an “affective audio network” (Primig et al., 2022: 7), in which users leveraged the platform’s functionalities of remixing trending sounds, such as the Duet feature, to unite around a shared experience and enhance its reverberation throughout the platform (see Figure 3[c]). Each new video iteration became embedded in what Phillips (2013) calls cycles of amplification, in which user engagement creates self-reinforcing feedback loops that boost content visibility and reach. This phenomenon extends beyond what is commonly termed “content without context” (Bhandari and Bimo, 2022: 7) on TikTok, involving the misleading contextualization and appropriation of content for propaganda purposes, all while the original creators maintain anonymity, as they could not be traced. However, commenters attempted to bring the video back into context and combat its falsehoods by noting it was originally posted in 2014, before the existence of TikTok (see Figure 3[d]).
+
+The third example is Imposter Content—Fake eyewitness reports meme (50 billion views). Within this meme format, users crafted point-of-view (POV) 15-second-long videos in which they filmed in various locations perceived as places of conflict or adversity, utilizing sound effects to simulate the experience of accidentally capturing war-related incidents. For example, a video by user @novostydnr posted on the day of the invasion featured footage of an indistinct garden obscured by fog. The video included overlaid text informing viewers of an explosion in the city of Thorez at 6:00 a.m., accompanied by the sound of sirens (see Figure 3[e]). Similar to other videos in the eyewitness report genre we have found, this video garnered high engagement rates as it was watched 1.2 million times and shared over 1,000 times, demonstrating the appeal of this type of content.
+
+The automated capacity to impersonate authentic sources through deceptive content was ultimately revealed upon clicking on the video’s sound feature, which was labeled as “оригинальный звук—Марія Антонова” (original sound—Maria Antonova). Upon tapping, the user is directed to the sound overview page with an “original” labeled video on top, which leads to the account of user @mariia_antonova. The user had posted a training alert video in the city of Chernihiv, Ukraine, on January 28, 2020, more than 2 years before the invasion, and her sound had been used in 2,040 videos, many of which were posted on February 24, 2022. An additional instance of imposter content is exemplified in a sound used in a video created by @utochka_29 on February 24, gaining more than 1.2 million views within 21 hours. The POV video captures the creator opening a window and gazing out onto a street in Ukraine. Suddenly, the sound of gunshots overtakes the video, and the creator shakes the phone to create a blurry glimpse into the moment (see Figure 3[f]). Upon tapping the applied sound, the user is directed to an overview page of a sound labeled as “original sound” accompanied by two emojis (a football and a fire symbol). The “original”-labeled video on top dates to 2020 and includes amateur video footage from a soccer game and a synthetically added sound of gunshots.
+
+This proliferation of imposter content involving the impersonation of authentic sources represents a significant driver of information disorder on the platform. While TikTok’s reusable audio functionality was originally designed to facilitate lip-syncing playback (Rettberg, 2017), the platform’s vernacular of templatability (Rintel, 2013) enables swift and effortless leverage of a vast library of original sounds. This has enabled audio manipulation, such as sirens and gunshots, to create a sense of presence in active combat zones and imminent danger. The issue of anonymity is being addressed, as we have found that tapping on the sound and examining its overview page reveals the trustworthy source of many of these misleading videos, allowing for easy debunking. It becomes apparent that these videos often use sounds taken from various sources on the internet. Nonetheless, a concerning trend on TikTok is that perpetrators can easily disguise their rapidly scaling sound-based campaigns by deleting the original source video, while the sound can still be used and spread across the platform.
+
+Ultimately, in the mid-volume information disorder category, all elements of computational propaganda, as outlined by Woolley and Howard (2019), become evident. Sound-based propaganda messages, enabled by applied audio templates, have scaled up to 100 billion views through “semi-automated” content production. Meanwhile, perpetrators have successfully maintained their anonymity through various techniques, such as deleting original sound files.
+
+#### High-volume information disorder
+
+High-volume information disorder can take two forms: (1) manipulated content, where genuine information, especially including sound, is not only combined with false contextual information (as in mid-volume) but actively altered to deceive and (2) fabricated content, which refers to entirely false information created to deceive and cause harm (Wardle, 2020).
+
+We have identified pro-Russian propaganda attempts to spread disinformation via manipulated content manifested in the example Stop Moving—You’re Supposed to be Dead! The manipulated TikTok video shows 57 body bags of alleged Ukrainian casualties on the first day of the invasion, with one person shown moving and struggling to get out. However, the original video material shows Austrian climate protesters demonstrating in Vienna in early 2022, as documented by fact-checkers on Twitter ([@Seana_Davis](mailto:@Seana_Davis), 2022). The content underwent visual manipulation, falsely implicating Ukraine in fabricating evidence regarding Russian aggression. A fake lower third was incorporated into the clip, falsely stating that 57 people were killed on the first day of the invasion, a claim attributed to the Ukrainian health ministry (Reuters, 2022). However, it was the inclusion of a manipulated audio clip sourced from an authentic news report that lent credibility to this false narrative. The manipulated video cleverly combined different elements, including a face mask worn by the original Austrian reporter, which made it difficult to detect the non-matching audio to the lip movements. It led many users to believe they were witnessing a staged Ukrainian propaganda event with a proclaimed dead person climbing out of a body bag. Many versions of the video included additional text inserts, such as “Ukraine is spreading lies right in front of our eyes” ([@mainstream_truth](mailto:@mainstream_truth)) (see Figure 4[a]). It was due to the ephemeral nature of content on online platforms (Giorgi and Rama, 2024; Özkula et al., 2024) that numerous altered versions proliferated rapidly, and digital trails could be easily deleted, making it impossible to trace the content back to its original creator and exemplifying how computational propaganda successfully maintains anonymity on TikTok.
+
+Figure 4. Screenshots from TikTok videos illustrating examples of high-volume information disorder.
+
+Fabricated content intending to deceive and do harm (Wardle, 2020) appears in different variations under the umbrella term #RussianLivesMatter. We identified 414 videos, including the abbreviation #RLM (for #RussianLivesMatter) in the captions. Videos with this hashtag carried three pro-Russian sound-based campaigns that combined different sounds, trends, filters, and hijacked challenges to deceive different target groups. The first sound-based trend is Masquerade by Chicago-based trap artist Siouxxie from 2020, which went viral in different variations with over 500,000 videos. This was made possible with the help of famous US-American influencer Charli D’Amelio, garnering more than 90 million views and helping to turn the sound into a dance challenge with a fixed set of specific dance moves.
+
+The popular dance challenge was reappropriated by Russian creators at the end of February 2022 in order to spread a pro-Russian narrative and help popularize the “Z”-symbol, which developed “from a military marking to the main symbol of public support for Russia’s invasion of Ukraine” (Sauer, 2022). Female Russian TikTok users like @kcseny, with 2.5 million followers, performed a modified version of the dance. The videos are broken into two parts. In the beginning, @kseny and others show traditional selfie poses like the V-sign or the devil’s horn hands with a Russian textual overlay translating as “How basic girls pose with their fingers.” In the second part, users perform a “Z” shape with their fingers, accompanied by a text overlay suggesting that this might be “How real woman pose their fingers” (see Figure 4[b]) to emphasize Russian users’ self-empowerment. The use of an insider gesture to resonate with and signal inclusion to a specific group represents a nuanced and sophisticated method of message propagation, tailored in a platform-specific manner. This computational propaganda tactic involves leveraging a popular sound as a memetic medium (Zulli and Zulli, 2022), modified into a dance challenge that enables semi-automated content production and amplification via a multimodal template.
+
+A second fabricated pro-Russian sound-based trend used the Soviet folk-based song and military march Katyusha composed in 1938. During World War II, Katyusha gained fame as a patriotic song, inspiring the population to defend their land (Von Geldern and Stites, 1995). We identified more than 100 ten-second videos utilizing this sound, each depicting a person kneeling while holding an English-language sign condemning “Russophobia.” In the second part of the video, the person stands up and turns the sign, revealing the words “Russian Lives Matter” while TikTok’s rainbow flash effect is applied, turning the video into a platform-specific mesmerizing audiovisual experience (see Figure 4[c] and (d)). Uncovering the orchestration of coordinated propaganda attempts, some users had similar typographical errors in the captions, including Russian-language instructions, such as “You can publish, description: Russian Lives Matter #RLM.”
+
+In another coordinated Russian campaign, Russian influencers read out a manuscript of pro-Kremlin narratives using hashtags like “Come on World,” promoting the falsehood that Ukraine perpetrated a genocide against Russian speaking in the Donbas region over the last eight years. According to Vice News (Gilbert, 2022), the Telegram group that spread the manuscript amassed over 500 members, including Russian TikTok influencers with 1.2–1.8 million followers. In the videos, users recited a script, turning it into audiovisual human bots, amplifying a message while charging it with influencers’ familiarity (Arriagada and Bishop, 2021), as well-known faces on the Russian part of the platform (see Figure 4(e)). The seemingly coordinated campaigns suggested they try to influence opinion about the war among English and Russian-speaking audiences by applying international pop songs, Russian folk songs, or Russian-language messages. Those examples prove TikTok users’ considerable proficiency in utilizing multimodal production techniques, ranging from sounds and effects to challenges.
+
+Ultimately, in the high-volume information disorder examples, all elements of computational propaganda were exhibited. The strategic use of performative videos—integrating imitative sound, text, and dance, operationalized by human agency—enabled semi-automated content production, achieving extensive reach. Additionally, anonymity was a notable feature, as many videos containing manipulated content could not be traced back to their creators, who effectively maintained their elusive identities.
+
+## Discussion
+
+In today’s era of global connectivity, various actors exploit digital platforms through computational propaganda techniques to spread misleading information within a polluted information ecosystem. Our study underscores the pivotal role of computational propaganda mechanisms by pinpointing and dissecting their three fundamental components: (a) automation, (b) scalability, and (c) anonymity (Woolley and Howard, 2019), which were actively employed on TikTok following the 2022 Russian invasion of Ukraine.
+
+Our findings build upon prior research, primarily focused on visual mediums for disseminating misleading information on social media (Hameleers et al., 2020; Peng et al., 2023), including TikTok (Shang et al., 2021). Instead, we highlight the auditive practices as a critical factor in creating, curating, amplifying, and disseminating misleading information on TikTok. While the weaponization of information is not new (Forest, 2021), disinformation campaigns have undergone significant transformation due to the influence of algorithmic recommendation systems, language model-based chatbots capable of generating text and images, and software applications designed to execute automated scripts imitating human actions. Nevertheless, these tactics still necessitate human involvement, encompassing campaign setup, scriptwriting, and tool operation. Buchanan et al. (2021) introduce the term “human-machine team” to capture this phenomenon, highlighting that “at the core of every output of GPT-3 is an interaction between human and machine: the machine continues writing where the human prompt stops” (p. 1).
+
+Our findings reveal the utilization of both algorithmic and human factors as a means to “purposefully manage and distribute misleading information” (Woolley and Howard, 2019: 3). Therefore, we categorize these tactics as “semi-automated.” Prominent is the reuse sound feature, identified as a key mechanism within the platform that effectively amplifies and spreads misleading information. The reuse sound semi-automates content production by providing users with a sound layer and, in the case of the dancing soldier, an additional choreography (a dance challenge) that reduces the hurdles of creative efforts and affords the shared ritual of content imitation on TikTok (Zulli and Zulli, 2022). Our study has also highlighted the capacity for semi-automation and scalability afforded by the duet feature on TikTok (Your son is dead). This feature allows users to effortlessly record their emotional reactions to what they perceive as war-related moments while watching the original video, with both videos displayed side by side. The duet function intensifies the affective intent (Papacharissi, 2015) of a video and fosters potential duet chains with an increasing number of users reacting to the reactions . Therefore, the cycle of misleading narratives on the platform is perpetuated, fueled by users’ emotional expression and sustained through techno-social bonds, all amplified by auditory practices within a networked infrastructure we refer to as the sound space.
+
+The primary goal of propaganda is to prompt specific actions or inactions from the audience (Walton, 1997), with semi-automated strategies currently emerging as the most effective method for disseminating audiovisual messages. While text-based messages spread by social bots have played a significant role in mobilizing a labor force for propagating fake news on platforms like Twitter (Shao et al., 2017), TikTok’s algorithm-driven recommendation system is better at engaging users in becoming contributors to the propagation of mis- and disinformation content. Especially, as a form of content creation labor, the role of sound enables malicious actors to outsource propaganda, either intentionally (Come on World) or covertly (Fake eyewitness reports). In addition, this approach provides a cloak of anonymity, as propaganda songs are disseminated through remixes (Katyusha) detached from their original creators. This is a manifestation of the remix culture (Primig et al., 2022: 2), in which “publication does not mark the end of content but the beginning of an ever-new reinterpretation of content fostered by a participatory paradigm.”
+
+In both Russia and Ukraine, computational propaganda techniques have rapidly produced content with remarkable scalability, effectively expanding its reach to broader audiences and garnering up to 88 million views for videos like the Dancing Soldier and Bayraktar. Unpacking this further using Wardle and Derakhshan’s (2017) framework of low, middle, and high information disorder, our study reveals that both Russia and Ukraine employ a wide range of propaganda tactics, displaying almost “full-spectrum propaganda capabilities” (Forest, 2021: 25). While Ukraine predominantly utilizes low and mid-information strategies, such as satire and parody, and misleading content, Russia employs more advanced high-information disorder tactics, including fabricated content and clearly manipulated content. This contrast may be attributed to Russia’s role as the aggressor, justifying its invasion by invoking narratives related to the great patriotic war (Katyusha), national pride and strength (Masquerade), and accusing Ukraine of deceit (Stop Moving). In contrast, Ukraine employs techniques like satire and parody to portray itself as an unjustly attacked, playful (Dancing Soldier), witty (Russian warship go f*** yourself), and formidable adversary (Bayraktar).
+
+On a larger scale, our findings highlight substantial tensions baked into platform recommendation systems engineered to showcase diverse content across cultures and geographies (Burgess et al., 2024). When regions like Gaza during recent wars, or Ukraine as we analyzed in our paper, become worldwide media hotspots, recommendation systems employ geographical diversification to amplify and distribute content from these areas across international feeds. This automated visibility of disputed regions capitalizes on users’ attention and reciprocates their desire to transcend traditional media silos (Yan et al., 2023). We argue that while recommendation systems indeed democratize and reshape epistemological approaches to how we learn about wars, their automated engineering of content diversity renders them vulnerable to users’ exploitation of spreading mis- and disinformation. Equipped with high digital literacies, our findings show users’ manipulation of TikTok’s recommendation system (the “for you” page) by leveraging audio features and platform-specific vernacular (e.g., hashtags and challenges) to trigger automated exposure. Against this, in line with Burgess et al. (2024), we claim that responsibly enhancing and circulating content diversity on platforms necessitates implementing safeguards that uphold informational integrity. This crucial action ensures that user engagement does not compromise the accuracy of content, maintaining a delicate yet essential balance for sustaining a non-polluted digital information ecosystem during disruptive events such as wars and beyond.
+
+While the Wardle and Derakhshan framework provides an initial classification of empirical examples, its informativeness has limitations. Future research should strive to incorporate this framework into a more comprehensive model that considers contextual information, drawing insights, for instance, from Quandt’s (2018) work on dark participation, for a nuanced understanding of actors, motivations, subjects, audiences, and processes. Due to our research’s qualitative approach, we could not provide a comprehensive illustration that quantifies the extent of misleading information networks on TikTok. However, revisiting TikTok in February 2023, one year after our initial study, we found that propaganda efforts persist. Ukrainian military personnel engaged in new dance challenges (e.g., Wednesday Addams Dance), while Pro-Russian accounts redistributed manipulated videos (e.g., Stop Moving). Future research should prioritize platform literacy as TikTok users excel in crafting engaging content for social influence. However, some users may lack the skills to identify and combat misinformation, leading to the unwitting spread of war-related audio memes.
+
+## Funding
+
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+## ORCID iD
+
+Tom Divon [https://orcid.org/0000-0002-7034-615X](https://orcid.org/0000-0002-7034-615X)
+
+## References
+
+Abidin C, Kaye DBV (2021) Audio memes, earworms, and templatability: the “aural turn” of memes on TikTok. In: Arkenbout C, Wilson J, De Zeeuw D (eds) Critical Meme Reader. Amsterdam: Institute of Network Cultures, pp. 58–68.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Audio+memes%2C+earworms%2C+and+templatability%3A+the+%E2%80%9Caural+turn%E2%80%9D+of+memes+on+TikTok&amp;author=C+Abidin&amp;author=DBV+Kaye&amp;publication_year=2021&amp;pages=58-68)
+
+Arriagada A, Bishop S (2021) Between commerciality and authenticity: The imaginary of social media influencers in the platform economy. Communication, Culture and Critique 14(4): 568–586.
+
+[Crossref](https://doi.org/10.1093/ccc/tcab050)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000743440300002)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Between+commerciality+and+authenticity%3A+The+imaginary+of+social+media+influencers+in+the+platform+economy.+Communication&amp;author=A+Arriagada&amp;author=S+Bishop&amp;publication_year=2021&amp;journal=Culture+and+Critique&amp;pages=568-586&amp;doi=10.1093%2Fccc%2Ftcab050)
+
+Arnaudo D (2017) Computational propaganda in Brazil: social bots during elections. Available at: [https://ora.ox.ac.uk/objects/uuid:e88de32c-baaa-4835-bb76-e00473457f46](https://ora.ox.ac.uk/objects/uuid:e88de32c-baaa-4835-bb76-e00473457f46)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Computational+propaganda+in+Brazil%3A+social+bots+during+elections&amp;author=D+Arnaudo&amp;publication_year=2017)
+
+Auerbach J, Castronovo R (Eds.) (2013) The Oxford handbook of propaganda studies. Oxford University Press.
+
+[Crossref](https://doi.org/10.1093/oxfordhb/9780199764419.001.0001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+Oxford+handbook+of+propaganda+studies&amp;author=J+Auerbach&amp;author=R+Castronovo&amp;publication_year=2013&amp;doi=10.1093%2Foxfordhb%2F9780199764419.001.0001)
+
+Basch CH, Meleo-Erwin Z, Fera J, et al. (2021) A global pandemic in the time of viral memes: COVID-19 vaccine misinformation and disinformation on TikTok. Human Vaccines & Immunotherapeutics 17(8): 2373–2377.
+
+[Crossref](https://doi.org/10.1080/21645515.2021.1894896)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/33764283/)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000632781300001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=A+global+pandemic+in+the+time+of+viral+memes%3A+COVID-19+vaccine+misinformation+and+disinformation+on+TikTok&amp;author=CH+Basch&amp;author=Z+Meleo-Erwin&amp;author=J+Fera&amp;publication_year=2021&amp;journal=Human+Vaccines+%26+Immunotherapeutics&amp;pages=2373-2377&amp;doi=10.1080%2F21645515.2021.1894896&amp;pmid=33764283)
+
+Bhandari N, Bimo M (2022) TikTok and political communication in India: unpacking the phenomenon of “content without context.” Journal of Contemporary Asia 52(1): 1–16.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=TikTok+and+political+communication+in+India%3A+unpacking+the+phenomenon+of+%E2%80%9Ccontent+without+context.%E2%80%9D&amp;author=N+Bhandari&amp;author=M+Bimo&amp;publication_year=2022&amp;journal=Journal+of+Contemporary+Asia&amp;pages=1-16)
+
+Boffone T (2021) Renegades: Digital Dance Cultures from Dubsmash to Tiktok. Oxford: Oxford University Press.
+
+[Crossref](https://doi.org/10.1093/oso/9780197577677.001.0001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Renegades%3A+Digital+Dance+Cultures+from+Dubsmash+to+Tiktok&amp;author=T+Boffone&amp;publication_year=2021&amp;doi=10.1093%2Foso%2F9780197577677.001.0001)
+
+Boichak O, Hoskins A (2022) My war: participation in warfare. Digital War 3: 1–8.
+
+[Crossref](https://doi.org/10.1057/s42984-022-00060-7)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=My+war%3A+participation+in+warfare&amp;author=O+Boichak&amp;author=A+Hoskins&amp;publication_year=2022&amp;journal=Digital+War&amp;pages=1-8&amp;doi=10.1057%2Fs42984-022-00060-7)
+
+Bolsover G, Howard P (2017) Computational propaganda and political big data: moving toward a more critical research agenda. Big Data 5(4): 273–276.
+
+[Crossref](https://doi.org/10.1089/big.2017.29024.cpr)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/29235917/)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000417945800001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Computational+propaganda+and+political+big+data%3A+moving+toward+a+more+critical+research+agenda&amp;author=G+Bolsover&amp;author=P+Howard&amp;publication_year=2017&amp;journal=Big+Data&amp;pages=273-276&amp;doi=10.1089%2Fbig.2017.29024.cpr&amp;pmid=29235917)
+
+Borrell J (2022) The essential fight against disinformation and manipulation. 27 December 2022. Available at: [https://www.eeas.europa.eu/eeas/essential-fight-against-disinformation-and-manipulation_en](https://www.eeas.europa.eu/eeas/essential-fight-against-disinformation-and-manipulation_en)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+essential+fight+against+disinformation+and+manipulation&amp;author=J+Borrell&amp;publication_year=2022)
+
+Bösch M, Ricks B (2021) Broken promises: TikTok and the German election. Mozilla Foundation. Available at: [https://www.mozilla.org/en-US/about/legal/terms/mozilla/](https://www.mozilla.org/en-US/about/legal/terms/mozilla/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Broken+promises%3A+TikTok+and+the+German+election&amp;author=M+B%C3%B6sch&amp;author=B+Ricks&amp;publication_year=2021)
+
+Buchanan B, Lohn A, Musser M (2021) Truth, Lies, and Automation: How Language Models Could Change Disinformation. Washington, DC: Center for Security and Emerging Technology.
+
+[Crossref](https://doi.org/10.51593/2021CA003)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Truth%2C+Lies%2C+and+Automation%3A+How+Language+Models+Could+Change+Disinformation&amp;author=B+Buchanan&amp;author=A+Lohn&amp;author=M+Musser&amp;publication_year=2021&amp;doi=10.51593%2F2021CA003)
+
+Burgess J, Bartolo L, Gray J, et al. (2024). Diversity as a multidisciplinary keyword for the politics of cultural recommender systems in global digital media platforms. International Journal of Cultural Studies 1–9.
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=001193082200001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Diversity+as+a+multidisciplinary+keyword+for+the+politics+of+cultural+recommender+systems+in+global+digital+media+platforms&amp;author=J+Burgess&amp;author=L+Bartolo&amp;author=J+Gray&amp;publication_year=2024&amp;journal=International+Journal+of+Cultural+Studies&amp;pages=1-9)
+
+Cervi L, Divon T (2023) Playful activism: Memetic performances of Palestinian resistance in TikTok# Challenges. Social media+ society 9(1): 20563051231157607.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_15_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F20563051231157607&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000945383400001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Playful+activism%3A+Memetic+performances+of+Palestinian+resistance+in+TikTok%23+Challenges&amp;author=L+Cervi&amp;author=T+Divon&amp;publication_year=2023&amp;journal=Social+media%2B+society&amp;pages=20563051231157607&amp;doi=10.1177%2F20563051231157607)
+
+Conserva HT (2003) Propaganda Techniques: AuthorHouse.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Propaganda+Techniques&amp;author=HT+Conserva&amp;publication_year=2003)
+
+David G (2018) Propaganda and sound. In: Bull M (ed.) The Routledge Companion to Sound Studies. New York: Routledge, pp. 90–98.
+
+[Crossref](https://doi.org/10.4324/9781315722191-11)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Propaganda+and+sound&amp;author=G+David&amp;publication_year=2018&amp;pages=90-98&amp;doi=10.4324%2F9781315722191-11)
+
+Divon T (2022) Playful publics on TikTok: The memetic Israeli-Palestinian war of #CHALLENGE. In Critical Meme Reader: Memetic Tacticality, pp. 88–105.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Playful+publics+on+TikTok%3A+The+memetic+Israeli-Palestinian+war+of+%23CHALLENGE&amp;author=T+Divon&amp;publication_year=2022&amp;journal=Critical+Meme+Reader%3A+Memetic+Tacticality&amp;pages=88-105)
+
+Divon T, Ebbrecht-Hartmann T (2022) # JewishTikTok: The JewToks’ Fight against Antisemitism. In TikTok cultures in the United States, pp. 47–58. Routledge.
+
+[Crossref](https://doi.org/10.4324/9781003280705-6)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=%23+JewishTikTok%3A+The+JewToks%E2%80%99+Fight+against+Antisemitism&amp;author=T+Divon&amp;author=T+Ebbrecht-Hartmann&amp;publication_year=2022&amp;journal=TikTok+cultures+in+the+United+States&amp;pages=47-58&amp;doi=10.4324%2F9781003280705-6)
+
+Divon T, Eriksson Krutrök M (forthcoming) Playful Trauma: TikTok Creators and the Use of the Platformed Body in Times of War. Social Media and Society.
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=001299152100001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Playful+Trauma%3A+TikTok+Creators+and+the+Use+of+the+Platformed+Body+in+Times+of+War&amp;author=T+Divon&amp;author=M+Eriksson+Krutr%C3%B6k&amp;journal=Social+Media+and+Society)
+
+Divon T, Eriksson Krutrök M (2023) TikTok(ing) Ukraine: Meme-based expressions of cultural trauma on social media. In Mortensen M, Pantti M (Eds.), Media and the War in Ukraine, pp. 119–136. Peter Lang.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=TikTok%28ing%29+Ukraine%3A+Meme-based+expressions+of+cultural+trauma+on+social+media&amp;author=T+Divon&amp;author=M+Eriksson+Krutr%C3%B6k&amp;publication_year=2023&amp;journal=Media+and+the+War+in+Ukraine&amp;pages=119-136)
+
+Duguay S, Gold-Apel H (2023) Stumbling blocks and alternative paths: reconsidering the walkthrough method for analyzing apps. Social Media+ Society 9(1): 20563051231158822.
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=000946404000001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Stumbling+blocks+and+alternative+paths%3A+reconsidering+the+walkthrough+method+for+analyzing+apps&amp;author=S+Duguay&amp;author=H+Gold-Apel&amp;publication_year=2023&amp;journal=Social+Media%2B+Society)
+
+Dwoskin E (2023) A flood of misinformation shapes views of Israel-Gaza conflict. Washington Post, 14 October. Available at [https://www.washingtonpost.com/technology/2023/10/14/propaganda-misinformation-israel-hamas-war-social-media/](https://www.washingtonpost.com/technology/2023/10/14/propaganda-misinformation-israel-hamas-war-social-media/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=A+flood+of+misinformation+shapes+views+of+Israel-Gaza+conflict&amp;author=E+Dwoskin&amp;publication_year=2023)
+
+Ebbrecht-Hartmann T, Divon T (2022) Serious TikTok: Can You Learn About the Holocaust in 60 seconds?. MediArXiv.
+
+[Crossref](https://doi.org/10.33767/osf.io/nv6t2)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Serious+TikTok%3A+Can+You+Learn+About+the+Holocaust+in+60+seconds%3F&amp;author=T+Ebbrecht-Hartmann&amp;author=T+Divon&amp;publication_year=2022&amp;journal=MediArXiv&amp;doi=10.33767%2Fosf.io%2Fnv6t2)
+
+Fischerkeller MP (1998) David versus Goliath: cultural judgments in asymmetric wars. Security Studies 7(4): 1–43.
+
+[Crossref](https://doi.org/10.1080/09636419808429357)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=000077216600002)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=David+versus+Goliath%3A+cultural+judgments+in+asymmetric+wars&amp;author=MP+Fischerkeller&amp;publication_year=1998&amp;journal=Security+Studies&amp;pages=1-43&amp;doi=10.1080%2F09636419808429357)
+
+Forest JJ (2021) Political warfare and propaganda: an introduction. Journal of Advanced Military Studies 12(1): 13–33.
+
+[Crossref](https://doi.org/10.21140/mcuj.20211201001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Political+warfare+and+propaganda%3A+an+introduction&amp;author=JJ+Forest&amp;publication_year=2021&amp;journal=Journal+of+Advanced+Military+Studies&amp;pages=13-33&amp;doi=10.21140%2Fmcuj.20211201001)
+
+Geboers M, Pilipets E (2024) Networked masterplots: Music, pro-Russian sentiment, and participatory propaganda on TikTok. Journal of Digital Social Research 6(1): 90–103
+
+[Crossref](https://doi.org/10.33621/jdsr.v6i1.201)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Networked+masterplots%3A+Music%2C+pro-Russian+sentiment%2C+and+participatory+propaganda+on+TikTok&amp;author=M+Geboers&amp;author=E+Pilipets&amp;publication_year=2024&amp;journal=Journal+of+Digital+Social+Research&amp;pages=103&amp;doi=10.33621%2Fjdsr.v6i1.201)
+
+Gibbs M, Meese J, Arnold M, et al. (2015) # Funeral and Instagram: death, social media, and platform vernacular. Information, Communication & Society 18(3): 255–268.
+
+[Crossref](https://doi.org/10.1080/1369118X.2014.987152)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000346847400002)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=%23+Funeral+and+Instagram%3A+death%2C+social+media%2C+and+platform+vernacular&amp;author=M+Gibbs&amp;author=J+Meese&amp;author=M+Arnold&amp;publication_year=2015&amp;journal=Information%2C+Communication+%26+Society&amp;pages=255-268&amp;doi=10.1080%2F1369118X.2014.987152)
+
+Gilbert D (2022) Russian TikTok influencers are being paid to spread Kremlin propaganda. VICE, 11 March. Available at: [https://www.vice.com/en/article/epxken/russian-tiktok-influencers-paid-propaganda](https://www.vice.com/en/article/epxken/russian-tiktok-influencers-paid-propaganda)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Russian+TikTok+influencers+are+being+paid+to+spread+Kremlin+propaganda&amp;author=D+Gilbert&amp;publication_year=2022)
+
+Giorgi G, Rama I (2024) The “Contingent Macro”: The ephemerality of memes as discursive devices. Journal of Digital Social Research.
+
+[Crossref](https://doi.org/10.33621/jdsr.v6i1.202)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+%E2%80%9CContingent+Macro%E2%80%9D%3A+The+ephemerality+of+memes+as+discursive+devices&amp;author=G+Giorgi&amp;author=I+Rama&amp;publication_year=2024&amp;journal=Journal+of+Digital+Social+Research&amp;doi=10.33621%2Fjdsr.v6i1.202)
+
+Grandinetti J, Bruinsma J (2022) The affective algorithms of conspiracy TikTok. Journal of Broadcasting & Electronic Media 67: 274–293.
+
+[Crossref](https://doi.org/10.1080/08838151.2022.2140806)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=000882679200001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+affective+algorithms+of+conspiracy+TikTok&amp;author=J+Grandinetti&amp;author=J+Bruinsma&amp;publication_year=2022&amp;journal=Journal+of+Broadcasting+%26+Electronic+Media&amp;pages=274-293&amp;doi=10.1080%2F08838151.2022.2140806)
+
+Guinaudeau B, Munger K, Votta F (2022) Fifteen seconds of fame: TikTok and the supply side of social video. Computational Communication Research 4(2): 463–485.
+
+[Crossref](https://doi.org/10.5117/CCR2022.2.004.GUIN)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Fifteen+seconds+of+fame%3A+TikTok+and+the+supply+side+of+social+video&amp;author=B+Guinaudeau&amp;author=K+Munger&amp;author=F+Votta&amp;publication_year=2022&amp;journal=Computational+Communication+Research&amp;pages=463-485&amp;doi=10.5117%2FCCR2022.2.004.GUIN)
+
+Hameleers M, Powell TE, Van Der Meer TG, et al. (2020) A picture paints a thousand lies? The effects and mechanisms of multimodal disinformation and rebuttals disseminated via social media. Political Communication 37(2): 281–301.
+
+[Crossref](https://doi.org/10.1080/10584609.2019.1674979)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=000512871600001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=A+picture+paints+a+thousand+lies%3F+The+effects+and+mechanisms+of+multimodal+disinformation+and+rebuttals+disseminated+via+social+media&amp;author=M+Hameleers&amp;author=TE+Powell&amp;author=TG+Van+Der+Meer&amp;publication_year=2020&amp;journal=Political+Communication&amp;pages=281-301&amp;doi=10.1080%2F10584609.2019.1674979)
+
+Jack C (2017) Lexicon of lies: terms for problematic information. Data & Society 3(22): 1094–1096.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Lexicon+of+lies%3A+terms+for+problematic+information&amp;author=C+Jack&amp;publication_year=2017&amp;journal=Data+%26+Society&amp;pages=1094-1096)
+
+Jaramillo-Dent D, Contreras-Pulido PP, Pérez-Rodríguez A (2022) Immigrant influencers on TikTok: diverse microcelebrity profiles and algorithmic (in) visibility. Media and Communication 10(1): 208–221.
+
+[Crossref](https://doi.org/10.17645/mac.v10i1.4743)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000762434300008)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Immigrant+influencers+on+TikTok%3A+diverse+microcelebrity+profiles+and+algorithmic+%28in%29+visibility&amp;author=D+Jaramillo-Dent&amp;author=PP+Contreras-Pulido&amp;author=A+P%C3%A9rez-Rodr%C3%ADguez&amp;publication_year=2022&amp;journal=Media+and+Communication&amp;pages=208-221&amp;doi=10.17645%2Fmac.v10i1.4743)
+
+Kaye DBV (2023) JazzTok: Creativity, Community, and Improvisation on TikTok. Jazz and Culture 6(2): 92–116.
+
+[Crossref](https://doi.org/10.5406/25784773.6.2.05)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=JazzTok%3A+Creativity%2C+Community%2C+and+Improvisation+on+TikTok&amp;author=DBV+Kaye&amp;publication_year=2023&amp;journal=Jazz+and+Culture&amp;pages=92-116&amp;doi=10.5406%2F25784773.6.2.05)
+
+Kaye DBV, Zeng J, Wikstrom P (2022) Tiktok: Creativity and Culture in Short Video. Cham: John Wiley.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Tiktok%3A+Creativity+and+Culture+in+Short+Video&amp;author=DBV+Kaye&amp;author=J+Zeng&amp;author=P+Wikstrom&amp;publication_year=2022)
+
+Klug D (2020) “It took me almost 30 minutes to practice this.” Performance and production practices in dance challenge videos on TikTok. arXiv [Preprint]. arXiv: 2008.13040.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=%E2%80%9CIt+took+me+almost+30%E2%80%89minutes+to+practice+this.%E2%80%9D+Performance+and+production+practices+in+dance+challenge+videos+on+TikTok.+arXiv+%5BPreprint%5D&amp;author=D+Klug&amp;publication_year=2020&amp;journal=arXiv%3A&amp;pages=13040)
+
+Kuźmiński A (2022) The methods of disinformation in the Russia-Ukraine War. Rhetoric and Communications Journal 53: 47–64.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+methods+of+disinformation+in+the+Russia-Ukraine+War&amp;author=A+Ku%C5%BAmi%C5%84ski&amp;publication_year=2022&amp;journal=Rhetoric+and+Communications+Journal&amp;pages=47-64)
+
+Larina T, Ozyumenko V, Ponton DM (2019) Persuasion strategies in media discourse about Russia: linguistic ambiguity and uncertainty. Lodz Papers in Pragmatics 15(1): 3–22.
+
+[Crossref](https://doi.org/10.1515/lpp-2019-0002)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Persuasion+strategies+in+media+discourse+about+Russia%3A+linguistic+ambiguity+and+uncertainty&amp;author=T+Larina&amp;author=V+Ozyumenko&amp;author=DM+Ponton&amp;publication_year=2019&amp;journal=Lodz+Papers+in+Pragmatics&amp;pages=3-22&amp;doi=10.1515%2Flpp-2019-0002)
+
+Lasswell H (1934) Propaganda. In: Seligman ER (ed.) Encyclopaedia of the Social Sciences. New York: Macmillan, p. 527.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Propaganda&amp;author=H+Lasswell&amp;publication_year=1934&amp;pages=527)
+
+Ling C, Blackburn J, De Cristofaro E, et al. (2022) Slapping cats, bopping heads, and oreo shakes: Understanding indicators of virality in tiktok short videos. In Proceedings of the 14th ACM Web Science Conference 2022, pp. 164–173.
+
+[Crossref](https://doi.org/10.1145/3501247.3531551)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Slapping+cats%2C+bopping+heads%2C+and+oreo+shakes%3A+Understanding+indicators+of+virality+in+tiktok+short+videos&amp;author=C+Ling&amp;author=J+Blackburn&amp;author=E+De+Cristofaro&amp;publication_year=2022&amp;pages=164-173&amp;doi=10.1145%2F3501247.3531551)
+
+Light B, Burgess J, Duguay S (2018) The walkthrough method: an approach to the study of apps. New Media & Society 20(3): 881–900.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_43_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F1461444816675438&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000429899100003)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+walkthrough+method%3A+an+approach+to+the+study+of+apps&amp;author=B+Light&amp;author=J+Burgess&amp;author=S+Duguay&amp;publication_year=2018&amp;journal=New+Media+%26+Society&amp;pages=881-900&amp;doi=10.1177%2F1461444816675438)
+
+Literat I, Boxman-Shabtai L, Kligler-Vilenchik N (2023) Protesting the protest paradigm: TikTok as a space for media criticism. The International Journal of Press/Politics, 28(2): 362–383.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_44_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F19401612221117481&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000834560000001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Protesting+the+protest+paradigm%3A+TikTok+as+a+space+for+media+criticism&amp;author=I+Literat&amp;author=L+Boxman-Shabtai&amp;author=N+Kligler-Vilenchik&amp;publication_year=2023&amp;journal=The+International+Journal+of+Press%2FPolitics&amp;pages=362-383&amp;doi=10.1177%2F19401612221117481)
+
+Marwick AE (2015) Instafame: luxury selfies in the attention economy. Public Culture 27(1(75)): 137–160.
+
+[Crossref](https://doi.org/10.1215/08992363-2798379)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=000348883000007)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Instafame%3A+luxury+selfies+in+the+attention+economy&amp;author=AE+Marwick&amp;publication_year=2015&amp;journal=Public+Culture&amp;pages=137-160&amp;doi=10.1215%2F08992363-2798379)
+
+Marwick A, Lewis R (2017) Media manipulation and disinformation online (pp. 1–104). Data and Society Research Institute. Available at: [https://datasociety.net/output/media-manipulation-and-disinfo-online/](https://datasociety.net/output/media-manipulation-and-disinfo-online/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Media+manipulation+and+disinformation+online+%28pp&amp;author=A+Marwick&amp;author=R+Lewis&amp;publication_year=2017&amp;pages=1-104)
+
+Mattingly DC, Yao E (2022) How soft propaganda persuades. Comparative Political Studies 55(9): 1569–1594.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_47_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F00104140211047403&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000826949000005)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=How+soft+propaganda+persuades&amp;author=DC+Mattingly&amp;author=E+Yao&amp;publication_year=2022&amp;journal=Comparative+Political+Studies&amp;pages=1569-1594&amp;doi=10.1177%2F00104140211047403)
+
+Medina Serrano JC, Papakyriakopoulos O, Hegelich S (2020) Dancing to the partisan beat: a first analysis of political communication on TikTok. In: 12th ACM conference on web science, Southampton, 6–10 July 2020, pp. 257–266. New York: Association for Computing Machinery.
+
+[Crossref](https://doi.org/10.1145/3394231.3397916)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Dancing+to+the+partisan+beat%3A+a+first+analysis+of+political+communication+on+TikTok&amp;author=JC+Medina+Serrano&amp;author=O+Papakyriakopoulos&amp;author=S+Hegelich&amp;publication_year=2020&amp;pages=257-266&amp;doi=10.1145%2F3394231.3397916)
+
+Merrin W (2018) Digital war: A critical introduction. Routledge.
+
+[Crossref](https://doi.org/10.4324/9781315707624)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?author=W+Merrin&amp;publication_year=2018&amp;journal=Digital+war%3A+A+critical+introduction&amp;doi=10.4324%2F9781315707624)
+
+Neog AS (2022) Who is Alex Hook? Ukrainian soldier confirms he’s alive in viral TikTok after death rumors run wild. Sports News, 4 March. Available at: [https://www.sportskeeda.com/pop-culture/who-alex-hook-ukrainian-soldier-confirms-alive-viral-tiktok-death-rumors-run-wild](https://www.sportskeeda.com/pop-culture/who-alex-hook-ukrainian-soldier-confirms-alive-viral-tiktok-death-rumors-run-wild)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Who+is+Alex+Hook%3F+Ukrainian+soldier+confirms+he%E2%80%99s+alive+in+viral+TikTok+after+death+rumors+run+wild&amp;author=AS+Neog&amp;publication_year=2022)
+
+NewsGuard (2022a) Misinformation monitor. 4 March 2022. Available at: [https://www.newsguardtech.com/misinformation-monitor/march-2022/](https://www.newsguardtech.com/misinformation-monitor/march-2022/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Misinformation+monitor&amp;publication_year=2022)
+
+NewsGuard (2022b) Misinformation monitor. 14 September. Available at: [https://www.newsguardtech.com/misinformation-monitor/september-2022/](https://www.newsguardtech.com/misinformation-monitor/september-2022/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Misinformation+monitor&amp;publication_year=2022)
+
+Nilsen J, Donovan J, Dreyfuss E, et al. (2022) TikTok, the war on Ukraine, and 10 features that make the app vulnerable to misinformation. Media Manipulation Casebook, 10 March. Available at: [https://mediamanipulation.org/research/tiktok-war-ukraine-and-10-features-make-app-vulnerable-misinformation](https://mediamanipulation.org/research/tiktok-war-ukraine-and-10-features-make-app-vulnerable-misinformation)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=TikTok%2C+the+war+on+Ukraine%2C+and+10+features+that+make+the+app+vulnerable+to+misinformation&amp;author=J+Nilsen&amp;author=J+Donovan&amp;author=E+Dreyfuss&amp;publication_year=2022)
+
+O’Connor C (2022) #PROPAGANDA: Russia state-controlled media flood TikTok with Ukraine disinformation. ISD, 12 April. Available at: [https://www.isdglobal.org/digital_dispatches/propaganda-russia-state-controlled-media-flood-tiktok-with-ukraine-disinformation/](https://www.isdglobal.org/digital_dispatches/propaganda-russia-state-controlled-media-flood-tiktok-with-ukraine-disinformation/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=%23PROPAGANDA%3A+Russia+state-controlled+media+flood+TikTok+with+Ukraine+disinformation&amp;author=C+O%E2%80%99Connor&amp;publication_year=2022)
+
+Özkula SM, Divon T, Schlussel H, et al. (2024) Special Issue on Methods in Visual Politics and Protest: mixed methods, data curation & anti-publics. Journal of Digital Social Research 6(1): 1–9.
+
+[Crossref](https://doi.org/10.33621/jdsr.v6i2.278)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Special+Issue+on+Methods+in+Visual+Politics+and+Protest%3A+mixed+methods%2C+data+curation+%26+anti-publics&amp;author=SM+%C3%96zkula&amp;author=T+Divon&amp;author=H+Schlussel&amp;publication_year=2024&amp;journal=Journal+of+Digital+Social+Research&amp;pages=1-9&amp;doi=10.33621%2Fjdsr.v6i2.278)
+
+Paasonen S (2015) As networks fail: affect, technology, and the notion of the user. Television & New Media 16(8): 701–716.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_56_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F1527476414552906&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000365042100002)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=As+networks+fail%3A+affect%2C+technology%2C+and+the+notion+of+the+user&amp;author=S+Paasonen&amp;publication_year=2015&amp;journal=Television+%26+New+Media&amp;pages=701-716&amp;doi=10.1177%2F1527476414552906)
+
+Papacharissi Z (2015) Affective Publics: Sentiment, Technology, and Politics. Oxford Studies in Digital Politics. Oxford: Oxford Academic.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Affective+Publics%3A+Sentiment%2C+Technology%2C+and+Politics&amp;author=Z+Papacharissi&amp;publication_year=2015)
+
+Pearce W, Özkula SM, Greene AK, et al. (2020) Visual cross-platform analysis: digital methods to research social media images. Information, Communication & Society 23(2): 161–180.
+
+[Crossref](https://doi.org/10.1080/1369118X.2018.1486871)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000505886800001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Visual+cross-platform+analysis%3A+digital+methods+to+research+social+media+images&amp;author=W+Pearce&amp;author=SM+%C3%96zkula&amp;author=AK+Greene&amp;publication_year=2020&amp;journal=Information%2C+Communication+%26+Society&amp;pages=161-180&amp;doi=10.1080%2F1369118X.2018.1486871)
+
+Peng Y, Lu Y, Shen C (2023) An agenda for studying credibility perceptions of visual misinformation. Political Communication 40(2): 225–237.
+
+[Crossref](https://doi.org/10.1080/10584609.2023.2175398)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000942236500001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=An+agenda+for+studying+credibility+perceptions+of+visual+misinformation&amp;author=Y+Peng&amp;author=Y+Lu&amp;author=C+Shen&amp;publication_year=2023&amp;journal=Political+Communication&amp;pages=225-237&amp;doi=10.1080%2F10584609.2023.2175398)
+
+Phillips W (2013) The house that fox built: anonymous, spectacle, and cycles of amplification. Television & New Media 14(6): 494–509.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_60_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F1527476412452799&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=000325101900002)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+house+that+fox+built%3A+anonymous%2C+spectacle%2C+and+cycles+of+amplification&amp;author=W+Phillips&amp;publication_year=2013&amp;journal=Television+%26+New+Media&amp;pages=494-509&amp;doi=10.1177%2F1527476412452799)
+
+Pilipets E, Geboers M, Divon T, et al. (2023) WARTOK: Networked soundscapes of memetic warfare. AoIR Selected Papers of Internet Research.
+
+[Crossref](https://doi.org/10.5210/spir.v2023i0.13532)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=WARTOK%3A+Networked+soundscapes+of+memetic+warfare&amp;author=E+Pilipets&amp;author=M+Geboers&amp;author=T+Divon&amp;publication_year=2023&amp;journal=AoIR+Selected+Papers+of+Internet+Research&amp;doi=10.5210%2Fspir.v2023i0.13532)
+
+Primig F, Szabó HD, Lacasa P (2022) Remixing war: an analysis of the reimagination of the Russian–Ukraine War on TikTok. Frontiers in Political Science 5: 10.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Remixing+war%3A+an+analysis+of+the+reimagination+of+the+Russian%E2%80%93Ukraine+War+on+TikTok&amp;author=F+Primig&amp;author=HD+Szab%C3%B3&amp;author=P+Lacasa&amp;publication_year=2022&amp;journal=Frontiers+in+Political+Science&amp;pages=10)
+
+Quandt T (2018) Dark participation. Media and Communication 6(4): 36–48.
+
+[Crossref](https://doi.org/10.17645/mac.v6i4.1519)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000449674200004)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Dark+participation&amp;author=T+Quandt&amp;publication_year=2018&amp;journal=Media+and+Communication&amp;pages=36-48&amp;doi=10.17645%2Fmac.v6i4.1519)
+
+Quick M, Maddox J (2024) Us, Them, Right, Wrong: How TikTok’s Green Screen, Duet, and Stitch help shape political discourse. First Monday.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Us%2C+Them%2C+Right%2C+Wrong%3A+How+TikTok%E2%80%99s+Green+Screen%2C+Duet%2C+and+Stitch+help+shape+political+discourse&amp;author=M+Quick&amp;author=J+Maddox&amp;publication_year=2024&amp;journal=First+Monday)
+
+Rahmawati NA, Hadinata F (2022) Computational propaganda on TikTok as the 21st century propaganda model. International Review of Humanities Studies 7(1): 21.
+
+[Crossref](https://doi.org/10.7454/irhs.v7i1.407)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Computational+propaganda+on+TikTok+as+the+21st+century+propaganda+model&amp;author=NA+Rahmawati&amp;author=F+Hadinata&amp;publication_year=2022&amp;journal=International+Review+of+Humanities+Studies&amp;doi=10.7454%2Firhs.v7i1.407)
+
+Ramos Méndez D, Ortega-Mohedano F (2017) The revolution in Millennial’s usage habits and consumption of video in Smartphones, the revealed crossroads. Revista Latina de Comunicación Social 72: 704–718.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+revolution+in+Millennial%E2%80%99s+usage+habits+and+consumption+of+video+in+Smartphones%2C+the+revealed+crossroads&amp;author=D+Ramos+M%C3%A9ndez&amp;author=F+Ortega-Mohedano&amp;publication_year=2017&amp;journal=Revista+Latina+de+Comunicaci%C3%B3n+Social&amp;pages=704-718)
+
+Ramati I, Abeliovich R (2022) Use this sound: Networked ventriloquism on Yiddish TikTok. New Media & Society, 14614448221135159.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_67_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F14614448221135159&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000888407600001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Use+this+sound%3A+Networked+ventriloquism+on+Yiddish+TikTok&amp;author=I+Ramati&amp;author=R+Abeliovich&amp;publication_year=2022&amp;journal=New+Media+%26+Society&amp;pages=14614448221135159&amp;doi=10.1177%2F14614448221135159)
+
+Rettberg JW (2017) Hand signs for lip-syncing: the emergence of a gestural language on musical.ly as a video-based equivalent to emoji. Social Media + Society 3(4): 2056305117735751.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_68_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F2056305117735751&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=000443463700002)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Hand+signs+for+lip-syncing%3A+the+emergence+of+a+gestural+language+on+musical.ly+as+a+video-based+equivalent+to+emoji&amp;author=JW+Rettberg&amp;publication_year=2017&amp;journal=Social+Media+%2B+Society&amp;pages=2056305117735751&amp;doi=10.1177%2F2056305117735751)
+
+Reuters (2022) Ukraine says 57 people killed on first day of Russian invasion. Reuters, 24 February. Available at: [https://www.reuters.com/world/europe/ukraine-says-57-people-killed-first-day-russian-invasion-2022-02-24/](https://www.reuters.com/world/europe/ukraine-says-57-people-killed-first-day-russian-invasion-2022-02-24/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Ukraine+says+57+people+killed+on+first+day+of+Russian+invasion&amp;publication_year=2022)
+
+Richards A (2022) A pro-Russia propaganda campaign is using over 180 TikTok influencers to promote the invasion of Ukraine. Media Matters, 11 March. Available at: [https://www.mediamatters.org/tiktok/pro-russia-propaganda-campaign-using-over-180-tiktok-influencers-promote-invasion-ukraine](https://www.mediamatters.org/tiktok/pro-russia-propaganda-campaign-using-over-180-tiktok-influencers-promote-invasion-ukraine)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=A+pro-Russia+propaganda+campaign+is+using+over+180+TikTok+influencers+to+promote+the+invasion+of+Ukraine&amp;author=A+Richards&amp;publication_year=2022)
+
+Rintel S (2013) Crisis memes: the importance of templatability to internet culture and freedom of expression. Australasian Journal of Popular Culture 2(2): 253–271.
+
+[Crossref](https://doi.org/10.1386/ajpc.2.2.253_1)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Crisis+memes%3A+the+importance+of+templatability+to+internet+culture+and+freedom+of+expression&amp;author=S+Rintel&amp;publication_year=2013&amp;journal=Australasian+Journal+of+Popular+Culture&amp;pages=253-271&amp;doi=10.1386%2Fajpc.2.2.253_1)
+
+Sandelowski M (1995) Sample size in qualitative research. Research in Nursing & Health 18(2): 179–183.
+
+[Crossref](https://doi.org/10.1002/nur.4770180211)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/7899572/)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3AA1995QN95700010)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Sample+size+in+qualitative+research&amp;author=M+Sandelowski&amp;publication_year=1995&amp;journal=Research+in+Nursing+%26+Health&amp;pages=179-183&amp;doi=10.1002%2Fnur.4770180211&amp;pmid=7899572)
+
+Sanovich S (2017) Computational propaganda in Russia: the origins of digital misinformation. Available at: [https://ora.ox.ac.uk/objects/uuid:555c1e20-60d0-4a20-8837-c68868cc0c96](https://ora.ox.ac.uk/objects/uuid:555c1e20-60d0-4a20-8837-c68868cc0c96)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Computational+propaganda+in+Russia%3A+the+origins+of+digital+misinformation&amp;author=S+Sanovich&amp;publication_year=2017)
+
+Sauer P (2022) Why has the letter ‘Z’ become the symbol of war for Russia? 7 March 2022. Available at: [https://www.theguardian.com/world/2022/mar/07/why-has-the-letter-z-become-the-symbol-of-war-for-russia](https://www.theguardian.com/world/2022/mar/07/why-has-the-letter-z-become-the-symbol-of-war-for-russia)
+
+[Google Scholar](https://scholar.google.com/scholar?q=Sauer+P+%282022%29+Why+has+the+letter+%E2%80%98Z%E2%80%99+become+the+symbol+of+war+for+Russia%3F+7+March+2022.+Available+at%3A+https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2022%2Fmar%2F07%2Fwhy-has-the-letter-z-become-the-symbol-of-war-for-russia)
+
+Schreiber M (2017) Audiences, aesthetics and affordances analysing practices of visual communication on social media. Digital Culture & Society 3(2): 143–164.
+
+[Crossref](https://doi.org/10.14361/dcs-2017-0209)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Audiences%2C+aesthetics+and+affordances+analysing+practices+of+visual+communication+on+social+media&amp;author=M+Schreiber&amp;publication_year=2017&amp;journal=Digital+Culture+%26+Society&amp;pages=143-164&amp;doi=10.14361%2Fdcs-2017-0209)
+
+Shang L, Kou Z, Zhang Y, et al. (2021) A multimodal misinformation detector for covid-19 short videos on TikTok. In: 2021 IEEE International Conference on Big Data (Big Data), Orlando, FL, 15–18 December 2021, pp. 899–908. New York: IEEE.
+
+[Crossref](https://doi.org/10.1109/BigData52589.2021.9671928)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=A+multimodal+misinformation+detector+for+covid-19+short+videos+on+TikTok&amp;author=L+Shang&amp;author=Z+Kou&amp;author=Y+Zhang&amp;publication_year=2021&amp;pages=899-908&amp;doi=10.1109%2FBigData52589.2021.9671928)
+
+Shao C, Ciampaglia GL, Varol O, et al. (2017) The spread of fake news by social bots. arXiv preprint arXiv:1707.07592, 96, 104.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+spread+of+fake+news+by+social+bots&amp;author=C+Shao&amp;author=GL+Ciampaglia&amp;author=O+Varol&amp;publication_year=2017)
+
+Shifman L (2013) Memes in digital culture. MIT press.
+
+[Crossref](https://doi.org/10.7551/mitpress/9429.001.0001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Memes+in+digital+culture&amp;author=L+Shifman&amp;publication_year=2013&amp;doi=10.7551%2Fmitpress%2F9429.001.0001)
+
+Silberling A (2021) TikTok reached 1 billion monthly active users. TechCrunch, 27 September. Available at: [https://techcrunch.com/2021/09/27/tiktok-reached-1-billion-monthly-active-users/](https://techcrunch.com/2021/09/27/tiktok-reached-1-billion-monthly-active-users/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=TikTok+reached+1+billion+monthly+active+users&amp;author=A+Silberling&amp;publication_year=2021)
+
+Southerton C, Clark M (2023) OBGYNs of TikTok and the role of misinformation in diffractive knowledge production. Journal of Sociology, 59(3), 610–627.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_80_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F14407833221135209&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=000883207700001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=OBGYNs+of+TikTok+and+the+role+of+misinformation+in+diffractive+knowledge+production&amp;author=C+Southerton&amp;author=M+Clark&amp;publication_year=2023&amp;journal=Journal+of+Sociology&amp;pages=610-627&amp;doi=10.1177%2F14407833221135209)
+
+Thompson SA, Alba D (2022) Fact and mythmaking blend in Ukraine’s Information War. The New York Times, 3 March. Available at: [https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html](https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Fact+and+mythmaking+blend+in+Ukraine%E2%80%99s+Information+War&amp;author=SA+Thompson&amp;author=D+Alba&amp;publication_year=2022)
+
+Thomson TJ, Angus D, Dootson P, et al. (2022). Visual mis/disinformation in journalism and public communications: Current verification practices, challenges, and future opportunities. Journalism Practice 16(5): 938–962.
+
+[Crossref](https://doi.org/10.1080/17512786.2020.1832139)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000582216600001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Visual+mis%2Fdisinformation+in+journalism+and+public+communications%3A+Current+verification+practices%2C+challenges%2C+and+future+opportunities&amp;author=TJ+Thomson&amp;author=D+Angus&amp;author=P+Dootson&amp;publication_year=2022&amp;journal=Journalism+Practice&amp;pages=938-962&amp;doi=10.1080%2F17512786.2020.1832139)
+
+TikTok Newsroom (2023) The truth about TikTok hashtags and content during the Israel-Hamas war. 13 November. Available at: [https://newsroom.tiktok.com/en-us/the-truth-about-tiktok-hashtags-and-content-during-the-israel-hamas-war](https://newsroom.tiktok.com/en-us/the-truth-about-tiktok-hashtags-and-content-during-the-israel-hamas-war)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+truth+about+TikTok+hashtags+and+content+during+the+Israel-Hamas+war&amp;publication_year=2023)
+
+TikTok (2022). #Ukraine. 25 May. Available at: [https://www.tiktok.com/tag/ukraine.ArchivedatWaybackMachine](https://www.tiktok.com/tag/ukraine.ArchivedatWaybackMachine): [https://web.archive.org/web/20220525205346/https://www.tiktok.com/tag/ukraine](https://web.archive.org/web/20220525205346/https://www.tiktok.com/tag/ukraine)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=%23Ukraine&amp;publication_year=2022)
+
+U.S. Department of State (2022, January 24) GEC Special Report: Russia’s Pillars of Disinformation and Propaganda. Washington, DC: U.S. Department of State. Available at: [https://www.state.gov/russias-pillars-of-disinformation-and-propaganda-report/](https://www.state.gov/russias-pillars-of-disinformation-and-propaganda-report/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=GEC+Special+Report%3A+Russia%E2%80%99s+Pillars+of+Disinformation+and+Propaganda.+Washington%2C+DC%3A+U.S.+Department+of+State&amp;publication_year=2022)
+
+Vaccari C, Chadwick A (2020) Deepfakes and disinformation: exploring the impact of synthetic political video on deception, uncertainty, and trust in news. Social Media+ Society 6(1): 2056305120903408.
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000517148600001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Deepfakes+and+disinformation%3A+exploring+the+impact+of+synthetic+political+video+on+deception%2C+uncertainty%2C+and+trust+in+news&amp;author=C+Vaccari&amp;author=A+Chadwick&amp;publication_year=2020&amp;journal=Social+Media%2B+Society)
+
+Venturini T (2022) Online conspiracy theories, digital platforms and secondary orality: toward a sociology of online monsters. Theory, Culture & Society 39(5): 61–80.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_87_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F02632764211070962&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000765278300001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Online+conspiracy+theories%2C+digital+platforms+and+secondary+orality%3A+toward+a+sociology+of+online+monsters&amp;author=T+Venturini&amp;publication_year=2022&amp;journal=Theory%2C+Culture+%26+Society&amp;pages=61-80&amp;doi=10.1177%2F02632764211070962)
+
+Vilmer J, Alatalu S, Borogan I, et al. (2018) Hacks, leaks and disruptions: Russian cyber strategies 75–84.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?author=J+Vilmer&amp;author=S+Alatalu&amp;author=I+Borogan&amp;publication_year=2018&amp;journal=Hacks%2C+leaks+and+disruptions%3A+Russian+cyber+strategies&amp;pages=75-84)
+
+Vizcaíno-Verdú A, Abidin C (2022) Music challenge memes on TikTok: understanding in-group storytelling videos. International Journal of Communication 16: 26.
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000789589100056)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Music+challenge+memes+on+TikTok%3A+understanding+in-group+storytelling+videos&amp;author=A+Vizca%C3%ADno-Verd%C3%BA&amp;author=C+Abidin&amp;publication_year=2022&amp;journal=International+Journal+of+Communication&amp;pages=26)
+
+Von Geldern J, Stites R (eds) (1995) Mass Culture in Soviet Russia: Tales, Poems, Songs, Movies, Plays, and Folklore, 1917–1953. Bloomington, IN: Indiana University Press.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Mass+Culture+in+Soviet+Russia%3A+Tales%2C+Poems%2C+Songs%2C+Movies%2C+Plays%2C+and+Folklore%2C+1917%E2%80%931953&amp;author=J+Von+Geldern&amp;author=R+Stites&amp;publication_year=1995)
+
+Walton D (1997) What is propaganda, and what exactly is wrong with it. Public Affairs Quarterly 11(4): 383–413.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=What+is+propaganda%2C+and+what+exactly+is+wrong+with+it&amp;author=D+Walton&amp;publication_year=1997&amp;journal=Public+Affairs+Quarterly&amp;pages=383-413)
+
+Wardle C (2020) Understanding information disorder. First Draft, 20 September. Available at: [https://firstdraftnews.org/long-form-article/understanding-information-disorder/](https://firstdraftnews.org/long-form-article/understanding-information-disorder/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Understanding+information+disorder&amp;author=C+Wardle&amp;publication_year=2020)
+
+Wardle C, Derakhshan H (2017) Information Disorder: Toward an Interdisciplinary Framework for Research and Policymaking. Strasbourg: Council of Europe.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Information+Disorder%3A+Toward+an+Interdisciplinary+Framework+for+Research+and+Policymaking&amp;author=C+Wardle&amp;author=H+Derakhshan&amp;publication_year=2017)
+
+Weichert S (2022) Armed with just a guitar, meet the man helping Ukraine resist Russia. euronews, 23 May. Available at: [https://www.euronews.com/my-europe/2022/05/23/bayraktar-armed-with-just-a-guitar-meet-the-man-helping-ukraine-resist-russia](https://www.euronews.com/my-europe/2022/05/23/bayraktar-armed-with-just-a-guitar-meet-the-man-helping-ukraine-resist-russia)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Armed+with+just+a+guitar%2C+meet+the+man+helping+Ukraine+resist+Russia&amp;author=S+Weichert&amp;publication_year=2022)
+
+Weikmann T, Lecheler S (2022) Visual disinformation in a digital age: a literature synthesis and research agenda. New Media & Society 25: 3696–3713.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_95_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F14614448221141648&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=000897748300001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Visual+disinformation+in+a+digital+age%3A+a+literature+synthesis+and+research+agenda&amp;author=T+Weikmann&amp;author=S+Lecheler&amp;publication_year=2022&amp;journal=New+Media+%26+Society&amp;pages=3696-3713&amp;doi=10.1177%2F14614448221141648)
+
+Woolley SC, Guilbeault D (2017) Computational propaganda in the United States of America: manufacturing consensus online. Available at: [https://ora.ox.ac.uk/objects/uuid:620ce18f-69ed-4294-aa85-184af2b5052e](https://ora.ox.ac.uk/objects/uuid:620ce18f-69ed-4294-aa85-184af2b5052e)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Computational+propaganda+in+the+United+States+of+America%3A+manufacturing+consensus+online&amp;author=SC+Woolley&amp;author=D+Guilbeault&amp;publication_year=2017)
+
+Woolley SC, Howard PN (2019) Computational Propaganda Worldwide: Executive Summary (ed. Woolley S, Howard PN, Working Paper 2017.11). Oxford: Project on Computational Propaganda.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Computational+Propaganda+Worldwide%3A+Executive+Summary&amp;author=SC+Woolley&amp;author=PN+Howard&amp;publication_year=2019)
+
+Yan P, Lu J, Zhao Y, et al. (2023) “Trapped” by Recommendation Algorithms? A Mixed Methods Study on the Use of Content Recommendation System in Everyday Life in Western China. In International Conference on Information, pp. 449–472. Cham: Springer Nature Switzerland.
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=%E2%80%9CTrapped%E2%80%9D+by+Recommendation+Algorithms%3F+A+Mixed+Methods+Study+on+the+Use+of+Content+Recommendation+System+in+Everyday+Life+in+Western+China&amp;author=P+Yan&amp;author=J+Lu&amp;author=Y+Zhao&amp;publication_year=2023&amp;pages=449-472)
+
+Zeng J, Kaye DBV (2022) From content moderation to visibility moderation: a case study of platform governance on TikTok. Policy & Internet 14(1): 79–95.
+
+[Crossref](https://doi.org/10.1002/poi3.287)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000758240000001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=From+content+moderation+to+visibility+moderation%3A+a+case+study+of+platform+governance+on+TikTok&amp;author=J+Zeng&amp;author=DBV+Kaye&amp;publication_year=2022&amp;journal=Policy+%26+Internet&amp;pages=79-95&amp;doi=10.1002%2Fpoi3.287)
+
+Zulli D, Zulli DJ (2022) Extending the Internet meme: conceptualizing technological mimesis and imitation publics on the TikTok platform. New Media & Society 24(8): 1872–1890.
+
+[Crossref](https://journals.sagepub.com/servlet/linkout?suffix=e_1_3_3_100_1&amp;dbid=4&amp;doi=10.1177%2F14614448241251804&amp;key=10.1177%2F1461444820983603&amp;site=sage)
+
+[Web of Science](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;DestApp=WOS_CPL&amp;UsrCustomerID=5e3815c904498985e796fc91436abd9a&amp;SrcAuth=atyponcel&amp;SrcApp=literatum&amp;DestLinkType=FullRecord&amp;KeyUT=WOS%3A000624209600001)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=Extending+the+Internet+meme%3A+conceptualizing+technological+mimesis+and+imitation+publics+on+the+TikTok+platform&amp;author=D+Zulli&amp;author=DJ+Zulli&amp;publication_year=2022&amp;journal=New+Media+%26+Society&amp;pages=1872-1890&amp;doi=10.1177%2F1461444820983603)
+
+## Biographies
+
+Marcus Bösch works as a researcher and communication advisor for media organizations and political parties. He is a research fellow at HAW Hamburg, where he investigates hybrid disinformation campaigns, and he regularly publishes the leading subscriber newsletter Understanding TikTok. His PhD centers around TikTok and propaganda. Bösch explores platform-specific propaganda techniques to scale, automate, and conceal deceiving narratives.
+
+Tom Divon is an ethnographer of user-platform interactions, focusing on creator culture, platform affordances, and user-generated content. He explores how platforms cultivate social-political cultures and facilitate participatory dynamics that allow creators to engage with activism, trauma, war, and conflict. In his PhD research, Divon delves into how Jewish and Palestinian creators on TikTok interact with the platform’s moderation infrastructures to negotiate and navigate their performative combat against antisemitism and hate speech, as well as their use of memetics vernaculars in identity-driven conflicts.
+
+## Also from Sage
+
+- [Technology from Sage Library digital servicesopens in new tab](https://www.technologyfromsage.com/?utm_source=cross-product-footer&amp;utm_medium=cross-product)
+- [Sage Video Streaming knowledgeopens in new tab](https://sk.sagepub.com/video?utm_source=cross-product-footer&amp;utm_medium=cross-product)
+- [Sage Research Methods Supercharging researchopens in new tab](https://methods.sagepub.com/?utm_source=cross-product-footer&amp;utm_medium=cross-product)
+- [Sage Knowledge Multimedia learning resourcesopens in new tab](https://sk.sagepub.com/?utm_source=cross-product-footer&amp;utm_medium=cross-product)
+- [Sage Campus Unleashing potentialopens in new tab](https://classroom.sagepub.com/?utm_source=cross-product-footer&amp;utm_medium=cross-product)
+- [Sage Business Cases Shaping futuresopens in new tab](https://sk.sagepub.com/cases?utm_source=cross-product-footer&amp;utm_medium=cross-product)
+- [Sage Data Uncovering insightopens in new tab](https://www.data-planet.com/?utm_source=cross-product-footer&amp;utm_medium=cross-product)
+- [CQ Library Elevating debateopens in new tab](https://library.cqpress.com/index.php?utm_source=cross-product-footer&amp;utm_medium=cross-product)
