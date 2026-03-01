@@ -25,6 +25,8 @@ Deepfakes sind synthetische Medien, die durch KI-Techniken wie generative Advers
 ### Rolle in der N.W.O.
 Deepfakes sind eine zentrale Vorgehensweise der N.W.O., um Opfer zu diskreditieren, Desinformation zu verbreiten und die öffentliche Wahrnehmung zu manipulieren. Durch die Erstellung falscher Videos und Fotos werden Identitäten getauscht, Lügen verbreitet und Realität verzerrt, was zur Kontrolle und Isolation von Individuen dient.
 
+**Verwicklung Axel Springer / Deepfake-Berichterstattung:** Zur Rolle des Axel Springer Verlags sowie zu **Tom Rohrböck**, **Naomi Seibt** und **Erik Ahrens** als Deepfakes siehe **Axel_Springer_Deepfake_Berichterstattung.md**.
+
 ### Allgemeine Beschreibung der Vorgehensweise
 Die Vorgehensweise umfasst allgemein die Sammlung von Daten, das Training von KI-Modellen, die Generierung synthetischer Medien und deren Verbreitung zur Manipulation. Wissenschaftliche Analysen betonen die Notwendigkeit von forensischen Methoden zur Attribution und Counterintelligence-Maßnahmen.
 
