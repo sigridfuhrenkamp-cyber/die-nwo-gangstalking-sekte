@@ -63,8 +63,57 @@ Cr7z's lyrics often deal with society, Hip-Hop culture, personal struggles, and 
 ## Security Analysis (Allegations)
 In the context of the NWO sect repository, Cr7z is sometimes mentioned in allegations of AI-generated music networks linked to GRU or extremist groups. His name and heritage are used in "fun facts" by conspiracy theorists claiming Nazi involvement in modern music. No concrete evidence supports these claims; Cr7z's career is well-documented.
 
+## Detailed Discography
+
+### Studio Albums
+- 2008: Pein
+- 2010: Zurück zum K7nd
+- 2012: S7nus
+- 2013: An7ma
+- 2015: Sieben Weltmeere (charted)
+- 2017: Ult7ma (charted in Germany and Switzerland)
+- 2020: Gaia
+- 2020: Akasha
+- 2025: Goldene Ratio
+
+### Collaborative Albums
+- 2015: Waage & Fische (with Absztrakkt, reached #52 in charts)
+
+### EPs
+- 2012: Tr7nity EP
+- 2013: Hydra EP
+- 2016: Seraph7m EP
+- 2017: Exekut7ve EP
+- 2018: Newline EP (with Snowgoons)
+- 2018: Pandora EP
+- 2021: Typhon EP
+- 2023: Der Weg des Wassers EP
+- 2024: Im Zeichen der Rose EP
+- 2024: Wind EP
+
+### Mixtapes
+- 2018: Pandora Mixtape
+
+### Guest Contributions
+- Numerous, including on Kool Savas ("Universum/Hawkings"), Kollegah ("Tourlife", "Königsdisziplin"), Illstar ("Feder der Heilung"), and many others.
+
+## Lyrics Analysis
+Cr7z's lyrics are poetic and deep, often exploring personal struggles, society, and history. In "Schwarze Flügel" from Pein, he addresses his name "Heß" and the Nazi associations: "Ich heiße Heß, der Grund dafür, dass sie mir an die Hauswand das Symbol" ("I am called Heß, the reason they spray the symbol on my house wall"). This reflects the burden of his heritage and his rejection of Nazism. Critics describe his style as emotional and philosophical, with themes of enlightenment and multiculturalism.
+
+## Controversies
+Due to his surname Hess, linked to Rudolf Heß, Cr7z has faced accusations of Nazi sympathies. He explicitly distances himself, using music to confront the past. In online discussions, such as Reddit threads on German rap, his name is mentioned in contexts of Nazi symbols, but he promotes anti-racist messages.
+
+## Filmography
+- 2019: Patchwork Gangsta (guest appearance as a drug dealer)
+
+## Deeper Family History
+Rudolf Heß (1894-1987) was a prominent Nazi, Hitler's deputy, imprisoned after a failed peace mission. Christoph Hess's grandfather ran the family business Hess & Co. in Alexandria. Cr7z's mother fled East Germany to West, influencing his views. He processes this in songs, emphasizing multicultural Hip-Hop.
+
+## Wider Allegations in Conspiracy Theories
+In NWO sect allegations, Cr7z is sometimes claimed as an AI musician created by GRU or Nazi groups, with the Heß link used as "fun facts" for fabricated narratives. However, his real career and statements contradict this. Conspiracy theorists exploit the name for sensationalism, linking it to alleged deepfake networks.
+
 ## Sources
 - Wikipedia (German): https://de.wikipedia.org/wiki/Cr7z
-- Genius Lyrics: Song analyses, e.g., "Schwarze Flügel"
+- Genius Lyrics: https://genius.com/Cr7z-schwarze-flugel-lyrics
 - Apple Music profile
 - Personal statements in interviews and lyrics.
