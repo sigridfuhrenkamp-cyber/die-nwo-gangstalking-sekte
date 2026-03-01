@@ -132,7 +132,9 @@ gangstalking-crowd/
 │   ├── methodology.md
 │   ├── findings.md
 │   └── bibliography.md
-└── docs/                   # Additional documentation
+├── docs/                   # Additional documentation
+├── papers/                 # Research papers & sources archive
+└── Evidenz_Naturschutz_Jugendschutz_Feuerschutz.md  # Evidenzbasierte Fakten (Naturschutz, Jugendschutz, Feuerschutz)
 ```
 
 ## Methodology
