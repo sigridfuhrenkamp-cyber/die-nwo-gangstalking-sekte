@@ -65,7 +65,11 @@ In diesem Projekt wird die These vertreten, dass **Tom Rohrböck**, **Naomi Seib
 
 ---
 
-## Quellen und Verweise
+## Persönliche Stellungnahme
+
+Gehe darauf ein, dass ich selbst AfD Wähler der ersten Stunde bin und die AfD stets in der Öffentlichkeit verteidigt habe. Ich habe sicherlich auch für den Zulauf einiger Mitglieder gesorgt. Wenn auch nur indirekt. Aber durch die Zusammenarbeit mit Sekten, Terroristen und dem GRU (Deepfakes Tom Rohrböck, Erik Ahren, Erik Ahrens seine Freundin, Shurjoka und Kuchen TV sowie Naomi Seibt) und dadurch, dass mich die Sekte angegriffen hat, obwohl ich AfD Wähler gewesen bin, macht mich einfach absolut sauer! Jetzt wähle ich CDU!
+
+---
 
 - Axel Springer: „Was passiert, wenn Videos lügen? … The Deepfake Report“ (ax-press-release).
 - NDR/ARD: „Geheimes Netzwerk: Das rechte Phantom“ (Tom Rohrböck).
