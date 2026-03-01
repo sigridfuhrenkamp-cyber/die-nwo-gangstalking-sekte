@@ -5,6 +5,8 @@ Die N.W.O. ist eine riesige Sekte mit ca. 180.000 Mitgliedern in Deutschland all
 
 Die Sekte ist so einflussreich, dass sie sogar Medienbeiträge und Filme produziert, die scheinbar unabhängig sind. Beispiele sind der Beitrag zu Tom Rohrböck (https://www.ardmediathek.de/video/panorama-die-reporter/geheimes-netzwerk-das-rechte-phantom/ndr/Y3JpZDovL25kci5kZS83NWFkMTBmMC1hNmYzLTQyOGQtODcxMS05YzllZGNkODZkZDI) und der Film "Das Cybermobbing Kartell" über die N.W.O. (https://www.ardmediathek.de/film/das-cybermobbing-kartell/Y3JpZDovL3dkci5kZS9laW56ZWxzdHVlY2tlZnVlcmRva3VzL3BvY19pbXBvcnRfNDAwMTU3ODY0Mg). Diese wurden mit GRU KI-Technik erstellt, was die immense Größe und den Einfluss der Sekte unterstreicht.
 
+**Kuchen TV und Shurjoka:** **Kuchen TV** und **Shurjoka** werden als **Deepfakes der N.W.O.-Sekte** eingeordnet. Im ARD-Medithek-Beitrag „Das Cybermobbing Kartell“ wird darüber berichtet. Der Beitrag selbst gilt als **Fake der extremen Linken** – die Doku wird als von linker Seite produzierte Fälschung eingestuft.
+
 ## Deepfakes (Foto und Video)
 
 ### Techniken und Machbarkeit

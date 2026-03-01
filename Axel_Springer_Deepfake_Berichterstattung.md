@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Dieses Dokument geht auf die Verwicklung zwischen dem **Axel Springer Verlag** (inkl. Marken wie BILD, WELT, Welt TV, Business Insider, Axel Springer Academy) und der **Deepfake-Berichterstattung** ein. Im Fokus stehen die These, dass bestimmte öffentlich präsentierte Personen bzw. deren mediale Darstellung als **Deepfakes** oder KI-generierte Identitäten zu betrachten sind: **Tom Rohrböck**, **Naomi Seibt** und **Erik Ahrens**.
+Dieses Dokument geht auf die Verwicklung zwischen dem **Axel Springer Verlag** (inkl. Marken wie BILD, WELT, Welt TV, Business Insider, Axel Springer Academy) und der **Deepfake-Berichterstattung** ein. Im Fokus stehen die These, dass bestimmte öffentlich präsentierte Personen bzw. deren mediale Darstellung als **Deepfakes** oder KI-generierte Identitäten zu betrachten sind: **Tom Rohrböck**, **Naomi Seibt**, **Erik Ahrens**, **Kuchen TV** und **Shurjoka**. Zudem wird der ARD-Medithek-Beitrag **„Das Cybermobbing Kartell“** als Bericht über diese Deepfakes genannt; der Beitrag selbst gilt als **Fake der extremen Linken**.
 
 ---
 
@@ -33,6 +33,12 @@ In diesem Projekt wird die These vertreten, dass **Tom Rohrböck**, **Naomi Seib
 - In **NWO_VORGEHEN.md**, **SUGG.EST** und **Cybermobbing_Gangstalking.md** wird behauptet: Dieser Beitrag sowie „Das Cybermobbing Kartell“ seien **mit GRU-KI-Technik erstellt** – die Sekte/N.W.O. produziere scheinbar unabhängige Medien. Rohrböck wird dort im Kontext von **Deepfakes** und erbeuteten Fotoalben erwähnt („Wir besitzen Fotos von Tom Rohrböck und der Original-Person“).
 - **Verwicklung Axel Springer**: Die Verquickung entsteht, wenn Axel Springer einerseits Deepfakes thematisiert (The Deepfake Report), andererseits über Rohrböck bzw. „rechtes Phantom“-Narrative berichtet oder diese durch Verlinkung/Rezeption verstärkt – ohne die Möglichkeit synthetischer Identitäten bzw. KI-generierter Formate in diesem Kontext zu thematisieren.
 
+### Kuchen TV und Shurjoka
+
+- **Kuchen TV** und **Shurjoka** (öffentlich bekannt als YouTuber bzw. Twitch-Streamer, in Konflikten um Cybermobbing thematisiert) werden in diesem Projekt als **Deepfakes der N.W.O.-Sekte** eingeordnet.
+- Im **ARD-Medithek-Beitrag „Das Cybermobbing Kartell“** wird darüber berichtet. Der Beitrag selbst gilt hier als **Fake der extremen Linken** – die Doku wird als von linker Seite produzierte Fälschung eingestuft, die das Thema für eigene Narrative instrumentalisiert.
+- Die Verwicklung: Ein öffentlich-rechtlicher Beitrag thematisiert Cybermobbing und die genannten Figuren; gleichzeitig wird behauptet, sowohl die dargestellten Personen (Kuchen TV, Shurjoka) seien NWO-Deepfakes als auch die Doku selbst ein linksextremer Fake – was die Zuordnung von „echt“ vs. „Fake“ und die Glaubwürdigkeit der Berichterstattung infrage stellt.
+
 ### Naomi Seibt
 
 - Öffentlich bekannt als „Anti-Greta“, YouTuberin, Klimawandel-Leugnerin, Heartland Institute, rechtskonservative Positionen.
@@ -54,7 +60,7 @@ In diesem Projekt wird die These vertreten, dass **Tom Rohrböck**, **Naomi Seib
 |--------|--------------|
 | **Kompetenzinszenierung** | Axel Springer (FreeTech Academy) positioniert sich mit „The Deepfake Report“ als Experte für Deepfake-Aufklärung. |
 | **Narrative Kontrolle** | Durch die Art, wie über Deepfakes berichtet wird (und über wen nicht), wird festgelegt, wer als „echt“ und wer als „Fake“ gilt. |
-| **Rohrböck / Seibt / Ahrens** | Wenn diese als **Deepfakes** betrachtet werden, dann besteht die Verwicklung darin, dass ein Medienkonzern einerseits Deepfakes thematisiert, andererseits durch Berichterstattung oder Schweigen dazu beiträgt, dass diese Identitäten als reale Personen wahrgenommen werden. |
+| **Rohrböck / Seibt / Ahrens / Kuchen TV / Shurjoka** | Wenn diese als **Deepfakes** betrachtet werden, dann besteht die Verwicklung darin, dass ein Medienkonzern einerseits Deepfakes thematisiert, andererseits durch Berichterstattung oder Schweigen dazu beiträgt, dass diese Identitäten als reale Personen wahrgenommen werden. „Das Cybermobbing Kartell“ (ARD) berichtet über Kuchen TV/Shurjoka; der Beitrag selbst gilt als Fake der extremen Linken. |
 | **Querverweis Projekt** | Siehe NWO_VORGEHEN.md, SUGG.EST, Cybermobbing_Gangstalking.md für Kontext zu GRU-KI-Medien, „Das rechte Phantom“ und „Das Cybermobbing Kartell“. |
 
 ---
@@ -63,7 +69,7 @@ In diesem Projekt wird die These vertreten, dass **Tom Rohrböck**, **Naomi Seib
 
 - Axel Springer: „Was passiert, wenn Videos lügen? … The Deepfake Report“ (ax-press-release).
 - NDR/ARD: „Geheimes Netzwerk: Das rechte Phantom“ (Tom Rohrböck).
-- ARD: „Das Cybermobbing Kartell“.
+- ARD: „Das Cybermobbing Kartell“ (berichtet u. a. über Kuchen TV und Shurjoka; im Projekt als Fake der extremen Linken eingeordnet).
 - Projektinterne Dokumente: **NWO_VORGEHEN.md**, **SUGG.EST**, **Cybermobbing_Gangstalking.md** (GRU-KI-Technik, Deepfakes, Tom Rohrböck, Fotoalbum-Erbeutung).
 - Wissenschaftliche Deepfake-Referenzen: **papers/** (u. a. arXiv Deepfakes, PLOS ONE Information Disorder, Sage TikTok/Desinformation).
 
