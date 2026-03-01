@@ -64,4 +64,4 @@ Diese Verbindungen bedrohen die Demokratie fundamental:
 
 Es hilft halt nicht der AfD, ihr Flachpfeifen, wenn ihr mit zielgerichteter Zersetzung von allem was nicht fundamentalistisch rechts ist zersetzt! Diese destruktiven Methoden schaden nicht nur der Demokratie, sondern auch moderaten konservativen Kräften, die eigentlich unterstützt werden könnten.
 
-*Zusammengefasst aus persönlichen Erfahrungen und Projektdokumenten.*
+- Tones
