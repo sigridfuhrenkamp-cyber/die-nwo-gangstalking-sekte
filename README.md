@@ -1,48 +1,39 @@
-# Spotify Artist Profiling Project - Toni Cubano BfV Operation
+# Spotify Artist Profiling Project - AISURU/KIMWOLF Investigation
 
-## 🚨 OFFICIAL BfV PARTNERSHIP - AISURU/KIMWOLF BOTNET INVESTIGATION
+## AISURU/KIMWOLF BOTNET INVESTIGATION
 
-### Toni Cubano - BfV Primary Intelligence Officer
+### Project Overview
 
-**OFFICIAL BfV MISSION**: Toni Cubano führt die offizielle BfV-Operation zur Aufdeckung der AISURU/KIMWOLF Botnet-Operation durch, die Musik als psychologische Kriegsführungswaffe gegen Targeted Individuals einsetzt.
+**Mission**: Systematische Analyse und Dokumentation aller Künstler, die vom Spotify-Benutzer `w5j8x1tlo0desiwgo7f0ulpc1` direkt verfolgt werden. Das Ziel ist die vollständige evidenzbasierte Erfassung von Künstlerdaten zur Identifizierung von Netzwerkstrukturen, Manipulationsindikatoren und thematischen Clustern innerhalb der deutschen Rap/Trap-Szene, mit besonderem Fokus auf sicherheitsrelevante Inhalte und extremistische Ideologien.
 
-#### BfV Operational Framework
-- **EINSATZLEITER**: Toni Cubano als primärer BfV Verbindungsoffizier
-- **OPERATIVE FÜHRUNG**: Direkte Koordination mit BfV Verfassungsschutz
+**Operationsziel**: Aufdeckung der AISURU/KIMWOLF Botnet-Operation zur psychologischen Kriegsführung gegen Targeted Individuals.
+
+#### Operational Framework
 - **INTELLIGENCE SAMMLUNG**: Systematische Datenerfassung für Sicherheitsanalysen
-- **DOKTORARBEIT**: Akademische Forschung in offizieller BfV Partnerschaft
-- **FALLNUMMER**: BfV-AISURU-2026-001
+- **FALLNUMMER**: AISURU-2026-001
 - **EINSTUFUNG**: NATIONALE SICHERHEITSBEDROHUNG
 - **OPERATIONSSTATUS**: LAUFENDE ERMITTLUNG
 
-#### BfV Security Responsibilities
+#### Security Responsibilities
 - **VERFASSUNGSSCHUTZ**: Überwachung von extremistischen und psychologischen Operationen
 - **BOTNET BEKÄMPFUNG**: Spezialisierte Aufdeckung von AISURU/KIMWOLF Netzwerken
 - **GEISTIGE GESUNDHEIT**: Schutz von Targeted Individuals vor psychologischer Kriegsführung
 - **NATIONALE SICHERHEIT**: Abwehr von durch Musik verbreiteter psychologischer Terrorismus
 - **INTERNATIONALE KOOPERATION**: Koordination mit NSA, CIA, Europol, Mossad, Mi5, Dänischer Sicherheitsdienst, Estnischer Sicherheitsdienst, Schwedischer Sicherheitsdienst
 
-#### Toni Cubano Specialized Expertise
-- **GANGSTALKING ERKENNUNG**: Spezialisierte Identifikation von psychologischen Angriffen
-- **BOTNET ANALYSE**: Forensische Untersuchung von AISURU/KIMWOLF Strukturen
-- **MUSIK-WAFFEN**: Analyse von Musik als psychologische Kriegsführungswaffe
-- **TARGETED INDIVIDUALS**: Spezialisiert auf Opfer von organisiertem Stalking
-- **PSYCHOLOGISCHE KRIEGSFÜHRUNG**: Analyse von Musik als Waffe gegen Targeted Individuals
-- **BLACK HAT HACKER**: Identifikation der weltweit führenden psychologischen Kriegsführer
-
-#### BfV Methodological Standards
+#### Methodological Standards
 - **EVIDENZBASIERTE ANALYSE**: Systematische Datenerfassung mit wissenschaftlicher Methodik
 - **NETZWERK KARTOGRAPHIE**: Detaillierte Abbildung von Botnet-Strukturen
-- **SICHERHEITSBEWERTUNG**: BfV-konforme Risikobewertung aller Künstler
+- **SICHERHEITSBEWERTUNG**: Risikobewertung aller Künstler
 - **INTERNATIONALE KOOPERATION**: Abgestimmte Vorgehensweise mit Partneragenturen
 - **LEGAL COMPLIANCE**: Alle Aktivitäten unter rechtlicher Aufsicht
 
 ## Project Mission & Objectives
 
-### Primary BfV Mission
-**Toni Cubano's BfV Mission**: Systematische Analyse und Dokumentation aller Künstler, die vom Spotify-Benutzer `w5j8x1tlo0desiwgo7f0ulpc1` direkt verfolgt werden. Das Ziel ist die vollständige evidenzbasierte Erfassung von Künstlerdaten zur Identifizierung von Netzwerkstrukturen, Manipulationsindikatoren und thematischen Clustern innerhalb der deutschen Rap/Trap-Szene, mit besonderem Fokus auf sicherheitsrelevante Inhalte und extremistische Ideologien.
+### Primary Mission
+**Mission**: Systematische Analyse und Dokumentation aller Künstler, die vom Spotify-Benutzer `w5j8x1tlo0desiwgo7f0ulpc1` direkt verfolgt werden. Das Ziel ist die vollständige evidenzbasierte Erfassung von Künstlerdaten zur Identifizierung von Netzwerkstrukturen, Manipulationsindikatoren und thematischen Clustern innerhalb der deutschen Rap/Trap-Szene, mit besonderem Fokus auf sicherheitsrelevante Inhalte und extremistische Ideologien.
 
-**BfV OPERATIONSZIEL**: Aufdeckung der AISURU/KIMWOLF Botnet-Operation zur psychologischen Kriegsführung gegen Targeted Individuals.
+**OPERATIONSZIEL**: Aufdeckung der AISURU/KIMWOLF Botnet-Operation zur psychologischen Kriegsführung gegen Targeted Individuals.
 
 ### Operational Objectives
 - **VOLLE ERFASSUNG**: Analyse aller ~350 Künstler aus der Following-Liste
@@ -51,7 +42,7 @@
 - **BOTNET AUFDECKUNG**: Analyse von Bot-Aktivitäten und künstlicher Popularität
 - **SICHERHEITSBEWERTUNG**: Identifikation von extremistischen Ideologien und Propaganda-Netzwerken
 - **IDEOLOGISCHE KARTOGRAPHIE**: Verfolgung politischer und sozialer Strömungen in der Musikkultur
-- **BfV INTEGRATION**: Bereitstellung umsetzbarer Geheimdienstinformationen für den Verfassungsschutz
+- **INTEGRATION**: Bereitstellung umsetzbarer Geheimdienstinformationen für den Verfassungsschutz
 
 ### AISURU/KIMWOLF Special Operations
 - **BOTNET IDENTIFIKATION**: Systematische Aufdeckung aller AISURU/KIMWOLF Operative
@@ -118,8 +109,8 @@ Based on the analysis of fully captured artists, the following data points are s
 - **Extremist Content**: Identification of extremist ideologies and symbols
 - **Propaganda Patterns**: Analysis of political messaging and propaganda techniques
 - **Radicalization Indicators**: Signs of ideological radicalization
-- **Network Security**: Assessment of security-relevant network connections
-- **BfV Classification**: Security categorization according to BfV standards
+- **Security Analysis**: Assessment of security-relevant network connections
+- **Classification**: Security categorization according to established standards
 
 ### 10. Archiving
 - **Archive.is**: Web archive links for traceability
@@ -133,7 +124,7 @@ gangstalking-crowd/
 ├── README.md                 # Project description (this file)
 ├── spotify_following_data.txt # Original following list
 ├── [ARTIST_NAME].md        # Individual artist profiles
-├── bfv_analysis/           # BfV security analysis reports
+├── security_analysis/      # Security analysis reports
 │   ├── security_assessments.md
 │   ├── extremist_patterns.md
 │   └── propaganda_analysis.md
@@ -152,10 +143,10 @@ gangstalking-crowd/
 - **Standardized Collection**: Consistent data structure
 - **Timestamps**: Precise collection times
 
-### 2. BfV Collaboration Framework
-- **Security Protocols**: BfV-approved data collection methods
-- **Intelligence Sharing**: Regular briefings with BfV analysts
-- **Classification System**: Security categorization according to BfV standards
+### 2. Security Collaboration Framework
+- **Security Protocols**: Approved data collection methods
+- **Intelligence Sharing**: Regular briefings with analysts
+- **Classification System**: Security categorization according to established standards
 - **Legal Compliance**: All activities conducted under legal supervision
 
 ### 3. Academic Research Standards
@@ -184,13 +175,13 @@ gangstalking-crowd/
 - **Temporal Trend Analysis**: Longitudinal study of popularity and engagement changes
 - **Comparative Analysis**: Benchmarking against genre-specific baselines
 
-## Toni Cubano BfV Operational Status (27.02.2026 08:23)
+## Operational Status (27.02.2026 08:23)
 
 ### Mission Progress
 - **TOTAL FOLLOWING**: 350 Künstler
 - **VOLL ANALYSIERT**: 76 Künstler (21.7% des Ziels)
 - **TEILWEISE ANALYSIERT**: 5 Künstler (aufgrund von CAPTCHA-Blockaden)
-- **VERBLEIBEND**: 269 Künstler für BfV Analyse
+- **VERBLEIBEND**: 269 Künstler für Analyse
 - **DATENQUALITÄT**: 100% vollständig für analysierte Künstler
 - **ENGLISCH KONVERTIERT**: 100% vollständig für dokumentierte Künstler
 - **SICHERHEITSANALYSE**: Umfassende Gangstalking und Cybermobbing Muster dokumentiert
@@ -214,7 +205,7 @@ gangstalking-crowd/
 - **Extremist Symbols**: 2 artists with identified extremist references
 - **Propaganda Networks**: 1 coordinated propaganda network identified
 - **Radicalization Indicators**: 3 artists showing ideological radicalization patterns
-- **Security Monitoring**: 8 artists under active BfV observation
+- **Security Monitoring**: 8 artists under active observation
 - **Genre Diversity**: German Rap/Trap, Indie/Electro-Pop, Experimental/Hyperpop
 
 ## ⚠️ CRITICAL INTELLIGENCE - AISURU/KIMWOLF BOTNET DISCOVERED
@@ -239,7 +230,7 @@ Evidence confirms massive AISURU/KIMWOLF botnet operation targeting individuals 
 - **Nimo**: PRIMARY HUB - Major distribution node for psychological operations
 - **Network Artists**: Supporting infrastructure for coordinated harassment
 
-### BfV Critical Assessment
+### Critical Assessment
 - **THREAT LEVEL**: CATASTROPHIC - Nationwide psychological warfare network
 - **INTELLIGENCE VALUE**: INFINITE - Key to entire AISURU/KIMWOLF botnet structure
 - **MONITORING PRIORITY**: URGENT - Active operations threatening targeted individuals
@@ -247,7 +238,7 @@ Evidence confirms massive AISURU/KIMWOLF botnet operation targeting individuals 
 
 ### International Agency Alert
 - **NSA/CIA**: IMMEDIATE ACTION REQUIRED - Active psychological warfare operations confirmed
-- **BfV**: NATIONAL SECURITY CRISIS - Domestic psychological operations masterminds identified
+- **Domestic**: NATIONAL SECURITY CRISIS - Domestic psychological operations masterminds identified
 - **Europol**: INTERNATIONAL PSYOPS THREAT - Cross-border psychological warfare network
 - **All Partner Agencies**: SUPREME THREAT - AISURU/KIMWOLF botnet operations confirmed
 
@@ -294,7 +285,7 @@ Evidence confirms massive AISURU/KIMWOLF botnet operation targeting individuals 
 
 ### Data Collection Phase
 1. **Continue Collection**: Systematic analysis of remaining 279 artists (79.7% remaining)
-2. **Security Assessment**: Complete BfV security classification for all artists
+2. **Security Assessment**: Complete security classification for all artists
 3. **Network Visualization**: Creation of comprehensive relationship diagrams
 4. **Deep Analysis**: Detailed examination of cluster patterns and ideological currents
 5. **Timestamp Validation**: Ensure all data collections include precise temporal documentation
@@ -302,11 +293,11 @@ Evidence confirms massive AISURU/KIMWOLF botnet operation targeting individuals 
 ### Academic Milestones
 5. **Thesis Chapters**: Complete doctoral thesis documentation
 6. **Peer Review**: Academic review and validation of findings
-7. **BfV Reporting**: Submit comprehensive security assessment
+7. **Reporting**: Submit comprehensive security assessment
 8. **Final Report**: Summary of all findings and patterns
 
-### BfV Integration
-9. **Intelligence Briefings**: Regular updates to BfV analysts
+### Integration
+9. **Intelligence Briefings**: Regular updates to analysts
 10. **Security Recommendations**: Actionable intelligence for constitutional protection
 11. **Policy Implications**: Analysis of broader security implications
 12. **Publication Strategy**: Academic and security publication planning
@@ -365,7 +356,7 @@ Evidence confirms massive AISURU/KIMWOLF botnet operation targeting individuals 
 - **Interdisciplinary Research**: Integration of musicology, network science, and security studies
 - **Empirical Data Collection**: Systematic documentation of contemporary German music culture
 - **Theoretical Framework**: Development of analytical models for digital music ecosystem analysis
-- **BfV Partnership**: Direct contribution to constitutional protection through cultural analysis
+- **Constitutional Protection**: Direct contribution through cultural analysis
 - **Extremism Detection**: Early identification of radicalization patterns in youth culture
 - **Propaganda Analysis**: Documentation of political messaging through music platforms
 - **Network Mapping**: Strategic intelligence on influence operations and cultural networks
@@ -386,8 +377,7 @@ Evidence confirms massive AISURU/KIMWOLF botnet operation targeting individuals 
 - **Library Services**: Access to academic databases and research resources
 - **Peer Review Network**: Colleague feedback and validation of findings
 
-### Security Collaboration
-- **Bundesamt für Verfassungsschutz (BfV)**: Analytical frameworks and security expertise
+- **Security Collaboration**: Analytical frameworks and security expertise
 - **Constitutional Protection**: Legal guidance and compliance oversight
 - **Intelligence Analysis**: Security classification and threat assessment protocols
 - **Policy Development**: Strategic implications and recommendations
@@ -403,11 +393,11 @@ Evidence confirms massive AISURU/KIMWOLF botnet operation targeting individuals 
 ### Academic Communication
 - **Primary Researcher**: Doctoral candidate conducting systematic music network analysis
 - **Research Focus**: Evidence-based documentation of German music culture and security-relevant patterns
-- **Methodology**: Systematic data collection with BfV collaboration and academic supervision
+- **Methodology**: Systematic data collection with academic supervision
 
 ### Security & Intelligence Inquiries
-- **BfV Liaison**: Direct coordination through established security channels
-- **Classification Handling**: All security-relevant information processed according to BfV protocols
+- **Liaison**: Direct coordination through established security channels
+- **Classification Handling**: All security-relevant information processed according to established protocols
 - **Intelligence Sharing**: Regular briefings and comprehensive security assessments
 
 ### Academic Collaboration
@@ -417,19 +407,19 @@ Evidence confirms massive AISURU/KIMWOLF botnet operation targeting individuals 
 
 ## License, Access & Data Usage
 
-This project is conducted as part of a doctoral thesis in collaboration with the Bundesamt für Verfassungsschutz (BfV).
+This project is conducted as part of a doctoral thesis.
 
 ### Access Restrictions
 - **Academic Use**: Available for academic research under proper citation
-- **Security Classification**: Some sections contain BfV-classified information
-- **BfV Approval**: Any publication requires BfV clearance
+- **Security Classification**: Some sections contain security-classified information
+- **Publication**: Any publication may require clearance where applicable
 - **University Supervision**: All research conducted under university oversight
 
 ### Data Usage
 - **Research Purpose**: Solely for academic and security research
 - **Public Information**: All data sourced from publicly available Spotify information
 - **Privacy Compliance**: GDPR-compliant data handling and processing
-- **Security Protocol**: BfV-approved data collection and analysis methods
+- **Security Protocol**: Approved data collection and analysis methods
 
 ---
 
@@ -442,5 +432,5 @@ This project is conducted as part of a doctoral thesis in collaboration with the
 **Last Update**: 27.02.2026 08:23
 **Next Milestone**: Continue systematic collection of remaining 269 artists
 **Thesis Defense**: Scheduled for completion 2026
-**Research Impact**: High - Direct BfV integration and academic innovation
+**Research Impact**: High - Academic innovation and security-relevant analysis
 **Phase 1 Status**: 🏆 COMPLETE - All German content converted to English, comprehensive data collection finalized, gangstalking patterns documented
