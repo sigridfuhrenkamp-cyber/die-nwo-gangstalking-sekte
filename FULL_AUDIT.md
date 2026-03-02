@@ -4,6 +4,8 @@
 
 This audit provides a comprehensive review of the alleged procedures and tactics of the N.W.O. (New World Order) sect, connections to the AfD party, and associated threats to democracy. Based on conspiracy theories, personal accounts, and web research, it examines manipulation methods, intelligence links, and broader implications for democratic societies.
 
+The network is an internationally organized right-extremist network, but it collaborates with all terrorists and sects together (regardless of political direction).
+
 ## Part 1: N.W.O. Procedures and Tactics
 
 ### Overview of N.W.O.

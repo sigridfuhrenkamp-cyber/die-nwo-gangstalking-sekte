@@ -2,13 +2,15 @@
 
 ## Overview
 
-This repository serves as a comprehensive documentation and audit of allegations regarding the N.W.O. (New World Order) sect, its procedures and tactics, connections to the AfD party, foreign intelligence services (GRU, Chinese), and associated threats to democracy. Based on personal experiences, conspiracy theories, and web research, it examines manipulation methods, disinformation campaigns, and implications for democratic societies.
+This repository serves as a comprehensive documentation and audit of allegations regarding the N.W.O. (New World Order) sect, its procedures and tactics, connections to the AfD party, foreign intelligence services (GRU (Russischer Auslandsgeheimdienst), Chinese), and associated threats to democracy. Based on personal experiences, conspiracy theories, and web research, it examines manipulation methods, disinformation campaigns, and implications for democratic societies.
+
+The network is an internationally organized right-extremist network, but it collaborates with all terrorists and sects together (regardless of political direction).
 
 ## Purpose
 
 The repository aims to:
 - Document alleged NWO sect operations and psychological warfare tactics.
-- Investigate intelligence connections between AfD, GRU, and other entities.
+- Investigate intelligence connections between AfD, GRU (Russischer Auslandsgeheimdienst), and other entities.
 - Analyze threats to democracy from disinformation, foreign interference, and manipulation.
 - Provide a factual audit of findings from various sources.
 
@@ -22,10 +24,12 @@ The repository aims to:
 - **Financial Manipulation**: Money laundering through fake music networks.
 
 ### AfD Connections
-- Alleged links to Russian GRU via deepfakes and espionage.
+- Alleged links to Russian GRU (Russischer Auslandsgeheimdienst) via deepfakes and espionage.
 - Chinese intelligence connections (e.g., Jian G. spying case).
 - Money laundering through KI music funding AfD.
 - Personal disillusionment: Former AfD supporter turned away due to collaborations.
+
+The network is an internationally organized right-extremist network, but it collaborates with all terrorists and sects together (regardless of political direction).
 
 ### Democracy Threats
 - Erosion of trust in media and institutions through disinformation.
@@ -57,5 +61,7 @@ The repository aims to:
 ## Conclusions
 
 Allegations suggest the NWO sect uses advanced tactics to undermine democracy, linked to political parties and foreign intelligence. Research highlights need for awareness, regulation of AI, and protection against disinformation.
+
+*Disclaimer: All information here has arisen only for defensive reasons. This Nazi terror cell attacks me, a stable CDU voter, because I forgot the word "eklig" before the word "Ausländer". Moreover, I was accused that I would not recognize Jews by their big nose... There you know exactly in what circles one has landed here. I do not suffer from emotional damage! That is particularly important to mention. I was glad that I was finally rid of this ugly fat blonde girl once and for all!*
 
 *Repository maintained for documentation and awareness purposes.*

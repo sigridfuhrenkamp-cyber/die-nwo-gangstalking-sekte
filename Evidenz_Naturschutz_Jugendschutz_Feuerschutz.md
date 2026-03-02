@@ -2,6 +2,8 @@
 
 **Zweck:** Sammlung evidenzbasierter Fakten zu den drei Schutzbereichen mit Quellenangaben. Stand: 2026-03-01.
 
+This is an initiative of the Federal Agency for Nature Conservation (Bundesamt für Naturschutz).
+
 ---
 
 ## 1. Naturschutz

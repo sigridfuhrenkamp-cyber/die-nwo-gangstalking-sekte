@@ -8,9 +8,9 @@ Gehe darauf ein, dass ich selbst AfD Wähler der ersten Stunde bin und die AfD s
 
 ### Tom Rohrböck
 
-- Öffentlich bekannt als Politikberater, AfD-Nähe, NPD-Kontakte, „#RechtesPhantom“-Netzwerk (u. a. ZEIT, NDR panorama).
+- Öffentlich bekannt als Politikberater, AfD-Nähe, NPD-Kontakte, „#Phantom“-Netzwerk (u. a. ZEIT, NDR panorama).
 - In diesem Projekt wird behauptet, dass Tom Rohrböck und andere als Deepfakes oder KI-generierte Identitäten fungieren, erstellt mit GRU-KI-Technik als Teil von Desinformationsoperationen.
-- Der Beitrag „Geheimes Netzwerk: Das rechte Phantom“ (NDR/ARD) wird als mit GRU-KI-Technik erstellt betrachtet.
+- Der Beitrag „Geheimes Netzwerk: Das Phantom“ (NDR/ARD) wird als mit GRU-KI-Technik erstellt betrachtet.
 
 ### Andere Figuren
 
@@ -28,8 +28,8 @@ Auf Basis von Recherchen in deutschen Medien (DW, Spiegel, Handelsblatt, LTO, MD
 - **Verbindung zu russischen Geheimdiensten**: Ein Mitarbeiter eines AfD-Abgeordneten wurde der Zugang zum Bundestag verweigert, da er enge Verbindungen zu einem russischen Staatsangehörigen hat, der mit russischen Geheimdienstmitarbeitern zusammenarbeitet (Spiegel, Oktober 2023).
 - **Spionage für Russland**: Der thüringische SPD-Innenminister Georg Maier warnt vor Spionage der AfD im Auftrag des Kremls, mit Hinweisen auf die Ausstattung im Büro eines AfD-Abgeordneten und mögliche Weitergabe sensibler Informationen über kritische Infrastruktur (Handelsblatt).
 - **Spionage für China**: Ein ehemaliger Mitarbeiter des AfD-Bundestagsabgeordneten Maximilian Krah wurde wegen Spionage für China zu vier Jahren und neun Monaten Freiheitsstrafe verurteilt (LTO, OLG Dresden).
-- **Versuche, Einfluss auf Geheimdienstkontrolle zu nehmen**: Die AfD in Thüringen stellt Anträge, um in die Geheimdienst-Kontrollgremien PKK und G10 einzuziehen, nachdem Kandidaten wegen der rechtsextremen Einstufung der Partei abgelehnt wurden (MDR).
-- **Allgemeine rechtsextreme Verbindungen**: Die AfD wird in Thüringen als stärkste Kraft gesehen, aber wegen gesicherter rechtsextremer Verbindungen von anderen Parteien boykottiert; Fragen nach Spionage für Russland (DW).
+- **Versuche, Einfluss auf Geheimdienstkontrolle zu nehmen**: Die AfD in Thüringen stellt Anträge, um in die Geheimdienst-Kontrollgremien PKK und G10 einzuziehen, nachdem Kandidaten wegen der extremen Einstufung der Partei abgelehnt wurden (MDR).
+- **Allgemeine extreme Verbindungen**: Die AfD wird in Thüringen als stärkste Kraft gesehen, aber wegen gesicherter extremer Verbindungen von anderen Parteien boykottiert; Fragen nach Spionage für Russland (DW).
 
 Diese Verbindungen unterstützen die These von Einflussoperationen durch ausländische Geheimdienste.
 
@@ -38,6 +38,25 @@ Diese Verbindungen unterstützen die These von Einflussoperationen durch auslän
 Das ganze Geld, was über das Musiknetzwerk und mit den ganzen Fake-KI-Musikern erzeugt wird, fließt über Tom Rohrböck z.B. an die AfD zurück. So wäscht man Spendengeld (GRU-Taktik). Es ist eine Verschwörung (keine Theorie!).
 
 Siehe NWO_VORGEHEN.md für Details zu KI-Musikern und deren Rolle in der N.W.O.-Sekte.
+
+### Stream-Manipulation zur Erwirtschaftung von Millionen
+
+Stream-Manipulation beinhaltet die künstliche Erhöhung von Abspielzahlen auf Plattformen wie Spotify durch Bots, Fake-Accounts oder koordinierte Abspielaktionen. Dies dient der Generierung von Einnahmen durch Spotify-Payouts (ca. 0,003-0,005 USD pro Stream), YouTube-Ad-Revenue und anderen Monetarisierungsformen. In diesem Kontext wird behauptet, dass die N.W.O.-Sekte und GRU-verknüpfte Netzwerke Millionen durch manipulierte Streams erwirtschaften:
+
+- **Mechanismus**: Musikstücke von KI-generierten oder beeinflussten Künstlern werden massenhaft gestreamt, um Sichtbarkeit und Einnahmen zu steigern. Dies umfasst automatisierte Skripte, gekaufte Streams und Botarmeen.
+- **Einnahmenpotential**: Bei Millionen manipulierten Streams können jährlich Millionen USD generiert werden, die anschließend gewaschen und für politische Zwecke verwendet werden.
+- **Verbindung zur AfD**: Das erwirtschaftete Geld fließt über Rohrböck und Netzwerke an die AfD, um Spenden zu finanzieren und Einfluss zu sichern.
+
+### Tom Rohrböck Spendenaffäre der AfD
+
+Tom Rohrböck, bekannt als „rechtes Phantom“, ist seit der AfD-Gründung massiv involviert. Recherchen von NDR, WDR und ZEIT zeigen:
+
+- **Netzwerkaufbau**: Rohrböck baute ein Geflecht aus Scheinfirmen und Medienorganen auf, über die AfD-Politiker finanziell unterstützt und aufgebaut wurden. Dies umfasst Luxusreisen, schmutziges Geld und Intrigen.
+- **Spendenskandale**: Dubiose Spenden und rechtsextreme Chats in AfD-Kreisen, inklusive Entschuldigungen von Fraktionen. Rohrböck beeinflusste Politiker wie Alice Weidel, verteilte Geld und steuerte Narrative nach rechts.
+- **Verbindungen**: Als Söldner rechter Milliardäre finanzierte er AfD-Mitglieder und Gründungsmitglieder. Medienberichte (ZEIT, Spiegel) bestätigen Spionagevorwürfe und Einflussnahme.
+- **GRU-Verknüpfung**: Rohrböck wird als GRU-generierter Deepfake eingeordnet, der Desinformation verbreitet und AfD unterwandert.
+
+Diese Affäre unterstreicht die systematische Finanzierung und Manipulation der AfD durch externe Akteure.
 
 ## Vollständige Überprüfung / Audit und Gefahren für die Demokratie
 
@@ -62,6 +81,10 @@ Diese Verbindungen bedrohen die Demokratie fundamental:
 
 ## Kritik an AfD-Taktiken
 
-Es hilft halt nicht der AfD, ihr Flachpfeifen, wenn ihr mit zielgerichteter Zersetzung von allem was nicht fundamentalistisch rechts ist zersetzt! Diese destruktiven Methoden schaden nicht nur der Demokratie, sondern auch moderaten konservativen Kräften, die eigentlich unterstützt werden könnten.
+Es hilft halt nicht der AfD, ihr Flachpfeifen, wenn ihr mit zielgerichteter Zersetzung von allem was nicht fundamentalistisch ist zersetzt! Diese destruktiven Methoden schaden nicht nur der Demokratie, sondern auch moderaten konservativen Kräften, die eigentlich unterstützt werden könnten.
+
+## New Allegations
+
+The leading heads in Germany are left-wing extremists who want to destroy everything. We do not know exactly what the GRU is leading. There are also right-wing extremists and pedophiles involved. Probably it's simply about destroying the public order.
 
 - Tones
